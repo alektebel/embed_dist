@@ -12,10 +12,9 @@ build/
 venv/
 env/
 
-# Model weights (large binary files — committed separately or kept local)
-# To include them, run: git lfs track "models/**"
-models/*/
-!models/.gitkeep
+# Model weights are committed directly (largest file is ~87 MB, under GitHub's 100 MB limit)
+# Only exclude the .gitkeep placeholder now that real files are present
+!models/
 
 # Log files generated at runtime
 *.log
