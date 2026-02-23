@@ -1,0 +1,21 @@
+# Sample phrases file for distance.py (batch mode) and visualize.py
+# Lines starting with # are ignored.
+# For visualize.py you can add a group label: "Group::phrase"
+# For distance.py --file, only the phrase part is used.
+
+AI / ML::machine learning
+AI / ML::deep learning
+AI / ML::neural network
+AI / ML::artificial intelligence
+AI / ML::computer vision
+AI / ML::natural language processing
+Food::pepperoni pizza
+Food::cheeseburger
+Food::sushi roll
+Food::chicken curry
+Sports::football match
+Sports::basketball dunk
+Sports::marathon running
+Finance::stock market crash
+Finance::interest rates rise
+Finance::cryptocurrency Bitcoin

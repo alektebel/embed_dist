@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+.venv/
+venv/
+env/
+
+# Model weights (large binary files — committed separately or kept local)
+# To include them, run: git lfs track "models/**"
+models/*/
+!models/.gitkeep
+
+# Log files generated at runtime
+*.log
+
+# Generated plots
+embed_pca.png
+embed_tsne.png
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
