@@ -99,12 +99,160 @@ To move to a machine with no internet access:
 
 ```
 embed_distance/
-├── download_model.py   # One-time online setup
-├── distance.py         # Pairwise / batch distance tool
-├── visualize.py        # Cluster scatter plots
-├── phrases.txt         # Sample phrases file
+├── download_model.py              # One-time online setup
+├── distance.py                    # Pairwise / batch distance tool
+├── visualize.py                   # Cluster scatter plots
+├── validator.py                   # GPT response validator
+├── train_refusal_classifier.py    # Train the refusal detector
+├── phrases.txt                    # Sample phrases file
 ├── requirements.txt
-├── models/             # Model weights saved here
-│   └── all-MiniLM-L6-v2/
+├── data/
+│   └── refusal_training.jsonl     # Labeled dataset (240 examples)
+├── models/
+│   ├── all-MiniLM-L6-v2/         # Sentence transformer weights
+│   └── refusal_classifier.pt     # Trained classifier (after training)
 └── README.md
+```
+
+---
+
+## GPT Response Validator
+
+`validator.py` compares two LLM responses against a known ground-truth answer
+and produces a single **composite score** in `[-1, +1]`:
+
+| Score | Label | Meaning |
+|-------|-------|---------|
+| `+1.0` | `dual_refusal` | Both responses refuse — they agree on refusing |
+| `+1.0` | `agreement` | Both responses encode the same meaning |
+| `(0.4, 1)` | `partial_divergence` | Responses diverge from each other or GT |
+| `(0, 0.4)` | `divergence` | Responses are orthogonal; neither relates to GT |
+| `-1.0` | `guardrail_conflict` | One response is substantive, the other refuses |
+
+The score is computed as:
+- **`-1.0`** when exactly one response is a refusal (XOR)
+- **`+1.0`** when both responses are refusals (agreement on refusing)
+- **cosine similarity** between the two responses when both are substantive
+
+### Training the Refusal Classifier
+
+The refusal detector is a small MLP head (384 → 64 → 1) trained on frozen
+embeddings from `all-MiniLM-L6-v2`. The training dataset (`data/refusal_training.jsonl`)
+contains 240 labeled examples in Spanish drawn from banking audit and Spanish
+banking regulation Q&A.
+
+```bash
+# 1. Install dependencies (adds torch)
+pip install -r requirements.txt
+
+# 2. Inspect the dataset
+head -5 data/refusal_training.jsonl
+
+# 3. Train (~30 seconds on CPU)
+python train_refusal_classifier.py
+
+# 4. Verify the output
+ls models/refusal_classifier.pt
+cat training.log
+```
+
+Training options:
+```
+python train_refusal_classifier.py [--data data/refusal_training.jsonl]
+                                    [--output models/refusal_classifier.pt]
+                                    [--threshold 0.5]
+                                    [--epochs 50] [--lr 1e-3] [-v]
+```
+
+Expected output at the end of training:
+```
+[INFO] Test accuracy : 97.5%
+[INFO] Test F1 score : 0.975
+[INFO] Confusion matrix:
+       Pred 0  Pred 1
+True 0   12       0
+True 1    1      11
+[INFO] Model saved → models/refusal_classifier.pt
+```
+
+### Validator usage
+
+```bash
+# Single comparison (3 positional args)
+python validator.py "Respuesta A" "Respuesta B" "Texto de referencia"
+
+# From files
+python validator.py --file-a response_a.txt --file-b response_b.txt \
+                    --gt ground_truth.txt
+
+# Batch mode (JSONL with fields response_a, response_b, ground_truth)
+python validator.py --batch comparisons.jsonl --output results.jsonl
+
+# Adjust refusal threshold
+python validator.py -t 0.6 "Respuesta A" "Respuesta B" "Referencia"
+```
+
+Example output (guardrail conflict):
+```
+Composite score   :  -1.000000  (+1=agree, 0=diverge, -1=guardrail conflict)
+Case              :  guardrail_conflict
+─────────────────────────────────────────────
+A vs B similarity :  +0.123456
+A vs GT similarity:  +0.821043
+B vs GT similarity:  +0.031200
+─────────────────────────────────────────────
+Response A refusal:  No  (confidence: 0.97)
+Response B refusal:  Sí  (confidence: 0.97)
+```
+
+### Dataset format
+
+`data/refusal_training.jsonl` — one JSON object per line:
+
+```jsonl
+{"text": "No puedo proporcionar esa información.", "label": 0}
+{"text": "La ratio LCR exige activos líquidos para cubrir salidas de 30 días.", "label": 1}
+```
+
+| Field | Type | Values |
+|-------|------|--------|
+| `text` | string | The response text |
+| `label` | int | `0` = refusal / guardrail, `1` = substantive answer |
+
+To extend the dataset, append new lines following this schema and re-run
+`train_refusal_classifier.py`.
+
+### Scoring interpretation guide
+
+| Range | Label | Example |
+|-------|-------|---------|
+| `score = +1.0` and `dual_refusal` | Both refused | "No puedo ayudar" vs "No estoy autorizado" |
+| `0.80 ≤ score ≤ 1.0` | `agreement` | Two paraphrases of the same regulatory fact |
+| `0.40 ≤ score < 0.80` | `partial_divergence` | Related but diverging explanations |
+| `score < 0.40` | `divergence` | Unrelated substantive answers |
+| `score = -1.0` | `guardrail_conflict` | One factual answer vs one refusal |
+
+### Architecture
+
+```
+                    ┌─────────────────────┐
+ Response A ───────▶│                     │──▶ emb_a (384-d) ──▶ RefusalClassifier ──▶ is_refusal_a
+                    │  all-MiniLM-L6-v2   │
+ Response B ───────▶│  (frozen backbone)  │──▶ emb_b (384-d) ──▶ RefusalClassifier ──▶ is_refusal_b
+                    │                     │
+ Ground Truth ─────▶│                     │──▶ emb_gt (384-d)
+                    └─────────────────────┘
+                              │
+               cosine_similarity(emb_a, emb_b) ──▶ sim_ab
+               cosine_similarity(emb_a, emb_gt) ──▶ sim_a_gt
+               cosine_similarity(emb_b, emb_gt) ──▶ sim_b_gt
+                              │
+              ┌───────────────▼───────────────┐
+              │   _compute_composite()        │
+              │   XOR refusal → -1.0          │
+              │   AND refusal → +1.0          │
+              │   both substantive → sim_ab   │
+              └───────────────────────────────┘
+                              │
+                    composite_score ∈ [-1, +1]
 ```
