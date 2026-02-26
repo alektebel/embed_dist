@@ -10,7 +10,7 @@ GitHub limits individual files to **100MB**.
 1. The **Code** and **Metric Adapter** are small and will be pushed to the repository.
 2. The **Base Model (2.2GB)** exceeds the limit. It should be handled via **Git LFS** or downloaded manually.
 
-## Offline Setup
-1. Download the base model: `SentenceTransformer('intfloat/multilingual-e5-large').save('models/multilingual-e5-large')`
-2. Ensure `models/metric_adapter.pt` is in the `models/` folder.
-3. Run `validator.py`.
+## Hybrid Approaches
+- **Google API + Logistic Regression**: We've added `google_logistic_validator.py`. This uses Google embeddings as features for a Logistic Regression classifier.
+  - **Benefit**: Instead of a raw distance, you get a **Probability of Correctness**.
+  - **Separability**: By training on the difference and product of embeddings, the model learns a much sharper decision boundary than simple cosine distance.
