@@ -9,11 +9,14 @@ from pathlib import Path
 # Fix path resolution
 BASE_DIR = Path(__file__).resolve().parent
 DATA_DIR = BASE_DIR / "data"
+LOCAL_E5_DIR = BASE_DIR / "models" / "multilingual-e5-large"
+HF_E5 = "intfloat/multilingual-e5-large"
+E5_MODEL = str(LOCAL_E5_DIR) if LOCAL_E5_DIR.exists() else HF_E5
 
 MODELS = [
     "BAAI/bge-large-en-v1.5",
     "sentence-transformers/all-mpnet-base-v2",
-    "intfloat/multilingual-e5-large"
+    E5_MODEL
 ]
 
 def load_dataset(path):

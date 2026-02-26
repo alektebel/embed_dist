@@ -9,9 +9,12 @@ import json
 class BankingQAValidator:
     def __init__(self, model_type="local", model_name=None, api_key=None):
         self.model_type = model_type
+        self.base_dir = Path(__file__).resolve().parent
+        self.local_e5_dir = self.base_dir / "models" / "multilingual-e5-large"
+        self.hf_e5 = "intfloat/multilingual-e5-large"
         # Load benchmark stats to "fit" the distance logic
         try:
-            with open(Path(__file__).parent / "data" / "benchmark_results.json", "r") as f:
+            with open(self.base_dir / "data" / "benchmark_results.json", "r") as f:
                 self.benchmark_stats = json.load(f)
         except Exception:
             self.benchmark_stats = {}
@@ -23,11 +26,14 @@ class BankingQAValidator:
             self.model_name = "models/embedding-001"
             self.thresholds = {"pos": 0.15, "neg": 0.25, "refusal": 0.80} # Default estimates
         else:
-            self.model_name = model_name or "intfloat/multilingual-e5-large"
+            default_model = str(self.local_e5_dir) if self.local_e5_dir.exists() else self.hf_e5
+            self.model_name = model_name or default_model
             print(f"Loading local validator model: {self.model_name}...")
             self.model = SentenceTransformer(self.model_name)
             # Dynamic thresholding based on benchmark
             stats = self.benchmark_stats.get(self.model_name, {}).get("stats", {})
+            if not stats and "multilingual-e5-large" in self.model_name:
+                stats = self.benchmark_stats.get(self.hf_e5, {}).get("stats", {})
             if stats:
                 self.thresholds = {
                     "pos": stats["positive"]["mean"] + stats["positive"]["std"],

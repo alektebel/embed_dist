@@ -54,10 +54,12 @@ class MetricAdapter(nn.Module):
 def train_adapter():
     base_dir = Path(__file__).resolve().parent
     data_path = base_dir / "data" / "separation_dataset.json"
+    local_e5_dir = base_dir / "models" / "multilingual-e5-large"
+    model_name = str(local_e5_dir) if local_e5_dir.exists() else "intfloat/multilingual-e5-large"
     with open(data_path, "r") as f:
         data = json.load(f)
 
-    st_model = SentenceTransformer("intfloat/multilingual-e5-large")
+    st_model = SentenceTransformer(model_name)
     dataset = DistanceDataset(data, st_model)
     loader = DataLoader(dataset, batch_size=64, shuffle=True)
 
