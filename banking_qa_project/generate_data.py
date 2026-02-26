@@ -22,7 +22,21 @@ def generate_banking_qa():
         "Tratamiento de Activos Adjudicados",
         "Cálculo de Activos Ponderados por Riesgo (RWA)",
         "Colchón de Capital Anticíclico",
-        "Información Financiera Pública (Pilar 3)"
+        "Información Financiera Pública (Pilar 3)",
+        "Riesgos ESG (Ambientales, Sociales y de Gobernanza)",
+        "Reglamento MiCA sobre Criptoactivos",
+        "Directrices de la EBA sobre Concesión y Seguimiento de Préstamos",
+        "Proceso de Autoevaluación de Capital (ICAAP)",
+        "Proceso de Autoevaluación de Liquidez (ILAAP)",
+        "Planes de Recuperación y Resolución (BRRD)",
+        "Riesgo de Tipo de Interés en la Cartera de Inversión (IRRBB)",
+        "Gestión del Riesgo de Modelo (MRM)",
+        "Externalización y Computación en la Nube (Cloud Computing)",
+        "Riesgo de Ciberseguridad y Resiliencia Operativa",
+        "Pruebas de Resistencia de Liquidez (Liquidity Stress Testing)",
+        "Informes de Supervisión (COREP y FINREP)",
+        "Gobernanza de Modelos de Riesgo Internos",
+        "Tratamiento de Riesgos de Concentración Crediticia"
     ]
     
     questions_templates = [

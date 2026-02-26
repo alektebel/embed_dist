@@ -1801,6 +1801,1266 @@
     },
     {
         "id": 301,
+        "question": "\u00bfCu\u00e1les son los requisitos principales para Riesgos ESG (Ambientales, Sociales y de Gobernanza)?",
+        "answer": "Los requisitos principales para Riesgos ESG (Ambientales, Sociales y de Gobernanza) implican mantener un colch\u00f3n de capital m\u00ednimo y realizar pruebas de estr\u00e9s rigurosas.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 302,
+        "question": "\u00bfC\u00f3mo calcula un banco su exposici\u00f3n bajo el marco de Riesgos ESG (Ambientales, Sociales y de Gobernanza)?",
+        "answer": "El c\u00e1lculo de la exposici\u00f3n bajo Riesgos ESG (Ambientales, Sociales y de Gobernanza) requiere datos hist\u00f3ricos de p\u00e9rdidas e indicadores macroecon\u00f3micos prospectivos.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 303,
+        "question": "\u00bfCu\u00e1l es el papel de la auditor\u00eda interna en la revisi\u00f3n de Riesgos ESG (Ambientales, Sociales y de Gobernanza)?",
+        "answer": "La auditor\u00eda interna debe verificar de forma independiente que los procesos de Riesgos ESG (Ambientales, Sociales y de Gobernanza) se alineen con el apetito de riesgo aprobado por el consejo.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 304,
+        "question": "Explique el impacto de Riesgos ESG (Ambientales, Sociales y de Gobernanza) en los activos ponderados por riesgo.",
+        "answer": "El impacto de Riesgos ESG (Ambientales, Sociales y de Gobernanza) en los activos ponderados por riesgo es significativo, requiriendo a menudo mayor capital para exposiciones especulativas.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 305,
+        "question": "\u00bfQu\u00e9 documentaci\u00f3n se requiere para auditar Riesgos ESG (Ambientales, Sociales y de Gobernanza)?",
+        "answer": "La documentaci\u00f3n para auditar Riesgos ESG (Ambientales, Sociales y de Gobernanza) incluye informes de validaci\u00f3n de modelos, mapas de linaje de datos y registros de cumplimiento de pol\u00edticas.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 306,
+        "question": "Defina los indicadores clave de desempe\u00f1o (KPI) para Riesgos ESG (Ambientales, Sociales y de Gobernanza).",
+        "answer": "Los indicadores clave de desempe\u00f1o para Riesgos ESG (Ambientales, Sociales y de Gobernanza) incluyen el ratio de capital sobre activos y la frecuencia de incumplimiento de l\u00edmites.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 307,
+        "question": "\u00bfC\u00f3mo se integra Riesgos ESG (Ambientales, Sociales y de Gobernanza) con la estrategia general de riesgo crediticio?",
+        "answer": "La integraci\u00f3n de Riesgos ESG (Ambientales, Sociales y de Gobernanza) con la estrategia de riesgo de cr\u00e9dito garantiza que la toma de riesgos se mantenga dentro de los l\u00edmites regulatorios definidos.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 308,
+        "question": "\u00bfCu\u00e1les son los errores comunes al implementar Riesgos ESG (Ambientales, Sociales y de Gobernanza)?",
+        "answer": "Los errores de implementaci\u00f3n para Riesgos ESG (Ambientales, Sociales y de Gobernanza) incluyen la mala calidad de los datos, la falta de informes automatizados y la formaci\u00f3n insuficiente del personal.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 309,
+        "question": "Bajo Riesgos ESG (Ambientales, Sociales y de Gobernanza), \u00bfc\u00f3mo se definen y reportan los impagos o defaults?",
+        "answer": "Los impagos bajo Riesgos ESG (Ambientales, Sociales y de Gobernanza) se definen como pagos vencidos por m\u00e1s de 90 d\u00edas o si es poco probable que el deudor pague sin ejecutar la garant\u00eda.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 310,
+        "question": "\u00bfCu\u00e1les son los requisitos de divulgaci\u00f3n para Riesgos ESG (Ambientales, Sociales y de Gobernanza) seg\u00fan los est\u00e1ndares regulatorios?",
+        "answer": "Los requisitos de divulgaci\u00f3n para Riesgos ESG (Ambientales, Sociales y de Gobernanza) exigen informes trimestrales sobre la composici\u00f3n del capital y los niveles de exposici\u00f3n al riesgo.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 311,
+        "question": "\u00bfQu\u00e9 sanciones prev\u00e9 el regulador por incumplir Riesgos ESG (Ambientales, Sociales y de Gobernanza)?",
+        "answer": "Las sanciones por incumplir Riesgos ESG (Ambientales, Sociales y de Gobernanza) pueden incluir multas pecuniarias elevadas y la revocaci\u00f3n de licencias operativas espec\u00edficas.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 312,
+        "question": "\u00bfC\u00f3mo afecta Riesgos ESG (Ambientales, Sociales y de Gobernanza) a la solvencia de una entidad financiera en Espa\u00f1a?",
+        "answer": "La solvencia se ve reforzada por Riesgos ESG (Ambientales, Sociales y de Gobernanza) al obligar a las entidades a retener beneficios como reservas de capital frente a riesgos inesperados.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 313,
+        "question": "\u00bfCu\u00e1l es la frecuencia de reporte requerida para Riesgos ESG (Ambientales, Sociales y de Gobernanza)?",
+        "answer": "La frecuencia de reporte para Riesgos ESG (Ambientales, Sociales y de Gobernanza) es generalmente trimestral, aunque eventos de riesgo mayor pueden exigir reportes ad-hoc inmediatos.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 314,
+        "question": "\u00bfQui\u00e9n es el responsable \u00faltimo dentro de la entidad de supervisar Riesgos ESG (Ambientales, Sociales y de Gobernanza)?",
+        "answer": "El Consejo de Administraci\u00f3n es el responsable final de asegurar que el marco de Riesgos ESG (Ambientales, Sociales y de Gobernanza) est\u00e9 correctamente implementado y dotado de recursos.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 315,
+        "question": "\u00bfQu\u00e9 diferencias existen entre la normativa europea y la espa\u00f1ola sobre Riesgos ESG (Ambientales, Sociales y de Gobernanza)?",
+        "answer": "La normativa espa\u00f1ola sobre Riesgos ESG (Ambientales, Sociales y de Gobernanza) suele transponer las directivas europeas a\u00f1adiendo criterios espec\u00edficos de la Circular del Banco de Espa\u00f1a.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 316,
+        "question": "\u00bfCu\u00e1les son los requisitos principales para Reglamento MiCA sobre Criptoactivos?",
+        "answer": "Los requisitos principales para Reglamento MiCA sobre Criptoactivos implican mantener un colch\u00f3n de capital m\u00ednimo y realizar pruebas de estr\u00e9s rigurosas.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 317,
+        "question": "\u00bfC\u00f3mo calcula un banco su exposici\u00f3n bajo el marco de Reglamento MiCA sobre Criptoactivos?",
+        "answer": "El c\u00e1lculo de la exposici\u00f3n bajo Reglamento MiCA sobre Criptoactivos requiere datos hist\u00f3ricos de p\u00e9rdidas e indicadores macroecon\u00f3micos prospectivos.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 318,
+        "question": "\u00bfCu\u00e1l es el papel de la auditor\u00eda interna en la revisi\u00f3n de Reglamento MiCA sobre Criptoactivos?",
+        "answer": "La auditor\u00eda interna debe verificar de forma independiente que los procesos de Reglamento MiCA sobre Criptoactivos se alineen con el apetito de riesgo aprobado por el consejo.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 319,
+        "question": "Explique el impacto de Reglamento MiCA sobre Criptoactivos en los activos ponderados por riesgo.",
+        "answer": "El impacto de Reglamento MiCA sobre Criptoactivos en los activos ponderados por riesgo es significativo, requiriendo a menudo mayor capital para exposiciones especulativas.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 320,
+        "question": "\u00bfQu\u00e9 documentaci\u00f3n se requiere para auditar Reglamento MiCA sobre Criptoactivos?",
+        "answer": "La documentaci\u00f3n para auditar Reglamento MiCA sobre Criptoactivos incluye informes de validaci\u00f3n de modelos, mapas de linaje de datos y registros de cumplimiento de pol\u00edticas.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 321,
+        "question": "Defina los indicadores clave de desempe\u00f1o (KPI) para Reglamento MiCA sobre Criptoactivos.",
+        "answer": "Los indicadores clave de desempe\u00f1o para Reglamento MiCA sobre Criptoactivos incluyen el ratio de capital sobre activos y la frecuencia de incumplimiento de l\u00edmites.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 322,
+        "question": "\u00bfC\u00f3mo se integra Reglamento MiCA sobre Criptoactivos con la estrategia general de riesgo crediticio?",
+        "answer": "La integraci\u00f3n de Reglamento MiCA sobre Criptoactivos con la estrategia de riesgo de cr\u00e9dito garantiza que la toma de riesgos se mantenga dentro de los l\u00edmites regulatorios definidos.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 323,
+        "question": "\u00bfCu\u00e1les son los errores comunes al implementar Reglamento MiCA sobre Criptoactivos?",
+        "answer": "Los errores de implementaci\u00f3n para Reglamento MiCA sobre Criptoactivos incluyen la mala calidad de los datos, la falta de informes automatizados y la formaci\u00f3n insuficiente del personal.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 324,
+        "question": "Bajo Reglamento MiCA sobre Criptoactivos, \u00bfc\u00f3mo se definen y reportan los impagos o defaults?",
+        "answer": "Los impagos bajo Reglamento MiCA sobre Criptoactivos se definen como pagos vencidos por m\u00e1s de 90 d\u00edas o si es poco probable que el deudor pague sin ejecutar la garant\u00eda.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 325,
+        "question": "\u00bfCu\u00e1les son los requisitos de divulgaci\u00f3n para Reglamento MiCA sobre Criptoactivos seg\u00fan los est\u00e1ndares regulatorios?",
+        "answer": "Los requisitos de divulgaci\u00f3n para Reglamento MiCA sobre Criptoactivos exigen informes trimestrales sobre la composici\u00f3n del capital y los niveles de exposici\u00f3n al riesgo.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 326,
+        "question": "\u00bfQu\u00e9 sanciones prev\u00e9 el regulador por incumplir Reglamento MiCA sobre Criptoactivos?",
+        "answer": "Las sanciones por incumplir Reglamento MiCA sobre Criptoactivos pueden incluir multas pecuniarias elevadas y la revocaci\u00f3n de licencias operativas espec\u00edficas.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 327,
+        "question": "\u00bfC\u00f3mo afecta Reglamento MiCA sobre Criptoactivos a la solvencia de una entidad financiera en Espa\u00f1a?",
+        "answer": "La solvencia se ve reforzada por Reglamento MiCA sobre Criptoactivos al obligar a las entidades a retener beneficios como reservas de capital frente a riesgos inesperados.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 328,
+        "question": "\u00bfCu\u00e1l es la frecuencia de reporte requerida para Reglamento MiCA sobre Criptoactivos?",
+        "answer": "La frecuencia de reporte para Reglamento MiCA sobre Criptoactivos es generalmente trimestral, aunque eventos de riesgo mayor pueden exigir reportes ad-hoc inmediatos.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 329,
+        "question": "\u00bfQui\u00e9n es el responsable \u00faltimo dentro de la entidad de supervisar Reglamento MiCA sobre Criptoactivos?",
+        "answer": "El Consejo de Administraci\u00f3n es el responsable final de asegurar que el marco de Reglamento MiCA sobre Criptoactivos est\u00e9 correctamente implementado y dotado de recursos.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 330,
+        "question": "\u00bfQu\u00e9 diferencias existen entre la normativa europea y la espa\u00f1ola sobre Reglamento MiCA sobre Criptoactivos?",
+        "answer": "La normativa espa\u00f1ola sobre Reglamento MiCA sobre Criptoactivos suele transponer las directivas europeas a\u00f1adiendo criterios espec\u00edficos de la Circular del Banco de Espa\u00f1a.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 331,
+        "question": "\u00bfCu\u00e1les son los requisitos principales para Directrices de la EBA sobre Concesi\u00f3n y Seguimiento de Pr\u00e9stamos?",
+        "answer": "Los requisitos principales para Directrices de la EBA sobre Concesi\u00f3n y Seguimiento de Pr\u00e9stamos implican mantener un colch\u00f3n de capital m\u00ednimo y realizar pruebas de estr\u00e9s rigurosas.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 332,
+        "question": "\u00bfC\u00f3mo calcula un banco su exposici\u00f3n bajo el marco de Directrices de la EBA sobre Concesi\u00f3n y Seguimiento de Pr\u00e9stamos?",
+        "answer": "El c\u00e1lculo de la exposici\u00f3n bajo Directrices de la EBA sobre Concesi\u00f3n y Seguimiento de Pr\u00e9stamos requiere datos hist\u00f3ricos de p\u00e9rdidas e indicadores macroecon\u00f3micos prospectivos.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 333,
+        "question": "\u00bfCu\u00e1l es el papel de la auditor\u00eda interna en la revisi\u00f3n de Directrices de la EBA sobre Concesi\u00f3n y Seguimiento de Pr\u00e9stamos?",
+        "answer": "La auditor\u00eda interna debe verificar de forma independiente que los procesos de Directrices de la EBA sobre Concesi\u00f3n y Seguimiento de Pr\u00e9stamos se alineen con el apetito de riesgo aprobado por el consejo.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 334,
+        "question": "Explique el impacto de Directrices de la EBA sobre Concesi\u00f3n y Seguimiento de Pr\u00e9stamos en los activos ponderados por riesgo.",
+        "answer": "El impacto de Directrices de la EBA sobre Concesi\u00f3n y Seguimiento de Pr\u00e9stamos en los activos ponderados por riesgo es significativo, requiriendo a menudo mayor capital para exposiciones especulativas.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 335,
+        "question": "\u00bfQu\u00e9 documentaci\u00f3n se requiere para auditar Directrices de la EBA sobre Concesi\u00f3n y Seguimiento de Pr\u00e9stamos?",
+        "answer": "La documentaci\u00f3n para auditar Directrices de la EBA sobre Concesi\u00f3n y Seguimiento de Pr\u00e9stamos incluye informes de validaci\u00f3n de modelos, mapas de linaje de datos y registros de cumplimiento de pol\u00edticas.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 336,
+        "question": "Defina los indicadores clave de desempe\u00f1o (KPI) para Directrices de la EBA sobre Concesi\u00f3n y Seguimiento de Pr\u00e9stamos.",
+        "answer": "Los indicadores clave de desempe\u00f1o para Directrices de la EBA sobre Concesi\u00f3n y Seguimiento de Pr\u00e9stamos incluyen el ratio de capital sobre activos y la frecuencia de incumplimiento de l\u00edmites.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 337,
+        "question": "\u00bfC\u00f3mo se integra Directrices de la EBA sobre Concesi\u00f3n y Seguimiento de Pr\u00e9stamos con la estrategia general de riesgo crediticio?",
+        "answer": "La integraci\u00f3n de Directrices de la EBA sobre Concesi\u00f3n y Seguimiento de Pr\u00e9stamos con la estrategia de riesgo de cr\u00e9dito garantiza que la toma de riesgos se mantenga dentro de los l\u00edmites regulatorios definidos.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 338,
+        "question": "\u00bfCu\u00e1les son los errores comunes al implementar Directrices de la EBA sobre Concesi\u00f3n y Seguimiento de Pr\u00e9stamos?",
+        "answer": "Los errores de implementaci\u00f3n para Directrices de la EBA sobre Concesi\u00f3n y Seguimiento de Pr\u00e9stamos incluyen la mala calidad de los datos, la falta de informes automatizados y la formaci\u00f3n insuficiente del personal.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 339,
+        "question": "Bajo Directrices de la EBA sobre Concesi\u00f3n y Seguimiento de Pr\u00e9stamos, \u00bfc\u00f3mo se definen y reportan los impagos o defaults?",
+        "answer": "Los impagos bajo Directrices de la EBA sobre Concesi\u00f3n y Seguimiento de Pr\u00e9stamos se definen como pagos vencidos por m\u00e1s de 90 d\u00edas o si es poco probable que el deudor pague sin ejecutar la garant\u00eda.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 340,
+        "question": "\u00bfCu\u00e1les son los requisitos de divulgaci\u00f3n para Directrices de la EBA sobre Concesi\u00f3n y Seguimiento de Pr\u00e9stamos seg\u00fan los est\u00e1ndares regulatorios?",
+        "answer": "Los requisitos de divulgaci\u00f3n para Directrices de la EBA sobre Concesi\u00f3n y Seguimiento de Pr\u00e9stamos exigen informes trimestrales sobre la composici\u00f3n del capital y los niveles de exposici\u00f3n al riesgo.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 341,
+        "question": "\u00bfQu\u00e9 sanciones prev\u00e9 el regulador por incumplir Directrices de la EBA sobre Concesi\u00f3n y Seguimiento de Pr\u00e9stamos?",
+        "answer": "Las sanciones por incumplir Directrices de la EBA sobre Concesi\u00f3n y Seguimiento de Pr\u00e9stamos pueden incluir multas pecuniarias elevadas y la revocaci\u00f3n de licencias operativas espec\u00edficas.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 342,
+        "question": "\u00bfC\u00f3mo afecta Directrices de la EBA sobre Concesi\u00f3n y Seguimiento de Pr\u00e9stamos a la solvencia de una entidad financiera en Espa\u00f1a?",
+        "answer": "La solvencia se ve reforzada por Directrices de la EBA sobre Concesi\u00f3n y Seguimiento de Pr\u00e9stamos al obligar a las entidades a retener beneficios como reservas de capital frente a riesgos inesperados.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 343,
+        "question": "\u00bfCu\u00e1l es la frecuencia de reporte requerida para Directrices de la EBA sobre Concesi\u00f3n y Seguimiento de Pr\u00e9stamos?",
+        "answer": "La frecuencia de reporte para Directrices de la EBA sobre Concesi\u00f3n y Seguimiento de Pr\u00e9stamos es generalmente trimestral, aunque eventos de riesgo mayor pueden exigir reportes ad-hoc inmediatos.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 344,
+        "question": "\u00bfQui\u00e9n es el responsable \u00faltimo dentro de la entidad de supervisar Directrices de la EBA sobre Concesi\u00f3n y Seguimiento de Pr\u00e9stamos?",
+        "answer": "El Consejo de Administraci\u00f3n es el responsable final de asegurar que el marco de Directrices de la EBA sobre Concesi\u00f3n y Seguimiento de Pr\u00e9stamos est\u00e9 correctamente implementado y dotado de recursos.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 345,
+        "question": "\u00bfQu\u00e9 diferencias existen entre la normativa europea y la espa\u00f1ola sobre Directrices de la EBA sobre Concesi\u00f3n y Seguimiento de Pr\u00e9stamos?",
+        "answer": "La normativa espa\u00f1ola sobre Directrices de la EBA sobre Concesi\u00f3n y Seguimiento de Pr\u00e9stamos suele transponer las directivas europeas a\u00f1adiendo criterios espec\u00edficos de la Circular del Banco de Espa\u00f1a.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 346,
+        "question": "\u00bfCu\u00e1les son los requisitos principales para Proceso de Autoevaluaci\u00f3n de Capital (ICAAP)?",
+        "answer": "Los requisitos principales para Proceso de Autoevaluaci\u00f3n de Capital (ICAAP) implican mantener un colch\u00f3n de capital m\u00ednimo y realizar pruebas de estr\u00e9s rigurosas.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 347,
+        "question": "\u00bfC\u00f3mo calcula un banco su exposici\u00f3n bajo el marco de Proceso de Autoevaluaci\u00f3n de Capital (ICAAP)?",
+        "answer": "El c\u00e1lculo de la exposici\u00f3n bajo Proceso de Autoevaluaci\u00f3n de Capital (ICAAP) requiere datos hist\u00f3ricos de p\u00e9rdidas e indicadores macroecon\u00f3micos prospectivos.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 348,
+        "question": "\u00bfCu\u00e1l es el papel de la auditor\u00eda interna en la revisi\u00f3n de Proceso de Autoevaluaci\u00f3n de Capital (ICAAP)?",
+        "answer": "La auditor\u00eda interna debe verificar de forma independiente que los procesos de Proceso de Autoevaluaci\u00f3n de Capital (ICAAP) se alineen con el apetito de riesgo aprobado por el consejo.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 349,
+        "question": "Explique el impacto de Proceso de Autoevaluaci\u00f3n de Capital (ICAAP) en los activos ponderados por riesgo.",
+        "answer": "El impacto de Proceso de Autoevaluaci\u00f3n de Capital (ICAAP) en los activos ponderados por riesgo es significativo, requiriendo a menudo mayor capital para exposiciones especulativas.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 350,
+        "question": "\u00bfQu\u00e9 documentaci\u00f3n se requiere para auditar Proceso de Autoevaluaci\u00f3n de Capital (ICAAP)?",
+        "answer": "La documentaci\u00f3n para auditar Proceso de Autoevaluaci\u00f3n de Capital (ICAAP) incluye informes de validaci\u00f3n de modelos, mapas de linaje de datos y registros de cumplimiento de pol\u00edticas.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 351,
+        "question": "Defina los indicadores clave de desempe\u00f1o (KPI) para Proceso de Autoevaluaci\u00f3n de Capital (ICAAP).",
+        "answer": "Los indicadores clave de desempe\u00f1o para Proceso de Autoevaluaci\u00f3n de Capital (ICAAP) incluyen el ratio de capital sobre activos y la frecuencia de incumplimiento de l\u00edmites.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 352,
+        "question": "\u00bfC\u00f3mo se integra Proceso de Autoevaluaci\u00f3n de Capital (ICAAP) con la estrategia general de riesgo crediticio?",
+        "answer": "La integraci\u00f3n de Proceso de Autoevaluaci\u00f3n de Capital (ICAAP) con la estrategia de riesgo de cr\u00e9dito garantiza que la toma de riesgos se mantenga dentro de los l\u00edmites regulatorios definidos.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 353,
+        "question": "\u00bfCu\u00e1les son los errores comunes al implementar Proceso de Autoevaluaci\u00f3n de Capital (ICAAP)?",
+        "answer": "Los errores de implementaci\u00f3n para Proceso de Autoevaluaci\u00f3n de Capital (ICAAP) incluyen la mala calidad de los datos, la falta de informes automatizados y la formaci\u00f3n insuficiente del personal.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 354,
+        "question": "Bajo Proceso de Autoevaluaci\u00f3n de Capital (ICAAP), \u00bfc\u00f3mo se definen y reportan los impagos o defaults?",
+        "answer": "Los impagos bajo Proceso de Autoevaluaci\u00f3n de Capital (ICAAP) se definen como pagos vencidos por m\u00e1s de 90 d\u00edas o si es poco probable que el deudor pague sin ejecutar la garant\u00eda.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 355,
+        "question": "\u00bfCu\u00e1les son los requisitos de divulgaci\u00f3n para Proceso de Autoevaluaci\u00f3n de Capital (ICAAP) seg\u00fan los est\u00e1ndares regulatorios?",
+        "answer": "Los requisitos de divulgaci\u00f3n para Proceso de Autoevaluaci\u00f3n de Capital (ICAAP) exigen informes trimestrales sobre la composici\u00f3n del capital y los niveles de exposici\u00f3n al riesgo.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 356,
+        "question": "\u00bfQu\u00e9 sanciones prev\u00e9 el regulador por incumplir Proceso de Autoevaluaci\u00f3n de Capital (ICAAP)?",
+        "answer": "Las sanciones por incumplir Proceso de Autoevaluaci\u00f3n de Capital (ICAAP) pueden incluir multas pecuniarias elevadas y la revocaci\u00f3n de licencias operativas espec\u00edficas.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 357,
+        "question": "\u00bfC\u00f3mo afecta Proceso de Autoevaluaci\u00f3n de Capital (ICAAP) a la solvencia de una entidad financiera en Espa\u00f1a?",
+        "answer": "La solvencia se ve reforzada por Proceso de Autoevaluaci\u00f3n de Capital (ICAAP) al obligar a las entidades a retener beneficios como reservas de capital frente a riesgos inesperados.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 358,
+        "question": "\u00bfCu\u00e1l es la frecuencia de reporte requerida para Proceso de Autoevaluaci\u00f3n de Capital (ICAAP)?",
+        "answer": "La frecuencia de reporte para Proceso de Autoevaluaci\u00f3n de Capital (ICAAP) es generalmente trimestral, aunque eventos de riesgo mayor pueden exigir reportes ad-hoc inmediatos.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 359,
+        "question": "\u00bfQui\u00e9n es el responsable \u00faltimo dentro de la entidad de supervisar Proceso de Autoevaluaci\u00f3n de Capital (ICAAP)?",
+        "answer": "El Consejo de Administraci\u00f3n es el responsable final de asegurar que el marco de Proceso de Autoevaluaci\u00f3n de Capital (ICAAP) est\u00e9 correctamente implementado y dotado de recursos.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 360,
+        "question": "\u00bfQu\u00e9 diferencias existen entre la normativa europea y la espa\u00f1ola sobre Proceso de Autoevaluaci\u00f3n de Capital (ICAAP)?",
+        "answer": "La normativa espa\u00f1ola sobre Proceso de Autoevaluaci\u00f3n de Capital (ICAAP) suele transponer las directivas europeas a\u00f1adiendo criterios espec\u00edficos de la Circular del Banco de Espa\u00f1a.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 361,
+        "question": "\u00bfCu\u00e1les son los requisitos principales para Proceso de Autoevaluaci\u00f3n de Liquidez (ILAAP)?",
+        "answer": "Los requisitos principales para Proceso de Autoevaluaci\u00f3n de Liquidez (ILAAP) implican mantener un colch\u00f3n de capital m\u00ednimo y realizar pruebas de estr\u00e9s rigurosas.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 362,
+        "question": "\u00bfC\u00f3mo calcula un banco su exposici\u00f3n bajo el marco de Proceso de Autoevaluaci\u00f3n de Liquidez (ILAAP)?",
+        "answer": "El c\u00e1lculo de la exposici\u00f3n bajo Proceso de Autoevaluaci\u00f3n de Liquidez (ILAAP) requiere datos hist\u00f3ricos de p\u00e9rdidas e indicadores macroecon\u00f3micos prospectivos.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 363,
+        "question": "\u00bfCu\u00e1l es el papel de la auditor\u00eda interna en la revisi\u00f3n de Proceso de Autoevaluaci\u00f3n de Liquidez (ILAAP)?",
+        "answer": "La auditor\u00eda interna debe verificar de forma independiente que los procesos de Proceso de Autoevaluaci\u00f3n de Liquidez (ILAAP) se alineen con el apetito de riesgo aprobado por el consejo.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 364,
+        "question": "Explique el impacto de Proceso de Autoevaluaci\u00f3n de Liquidez (ILAAP) en los activos ponderados por riesgo.",
+        "answer": "El impacto de Proceso de Autoevaluaci\u00f3n de Liquidez (ILAAP) en los activos ponderados por riesgo es significativo, requiriendo a menudo mayor capital para exposiciones especulativas.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 365,
+        "question": "\u00bfQu\u00e9 documentaci\u00f3n se requiere para auditar Proceso de Autoevaluaci\u00f3n de Liquidez (ILAAP)?",
+        "answer": "La documentaci\u00f3n para auditar Proceso de Autoevaluaci\u00f3n de Liquidez (ILAAP) incluye informes de validaci\u00f3n de modelos, mapas de linaje de datos y registros de cumplimiento de pol\u00edticas.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 366,
+        "question": "Defina los indicadores clave de desempe\u00f1o (KPI) para Proceso de Autoevaluaci\u00f3n de Liquidez (ILAAP).",
+        "answer": "Los indicadores clave de desempe\u00f1o para Proceso de Autoevaluaci\u00f3n de Liquidez (ILAAP) incluyen el ratio de capital sobre activos y la frecuencia de incumplimiento de l\u00edmites.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 367,
+        "question": "\u00bfC\u00f3mo se integra Proceso de Autoevaluaci\u00f3n de Liquidez (ILAAP) con la estrategia general de riesgo crediticio?",
+        "answer": "La integraci\u00f3n de Proceso de Autoevaluaci\u00f3n de Liquidez (ILAAP) con la estrategia de riesgo de cr\u00e9dito garantiza que la toma de riesgos se mantenga dentro de los l\u00edmites regulatorios definidos.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 368,
+        "question": "\u00bfCu\u00e1les son los errores comunes al implementar Proceso de Autoevaluaci\u00f3n de Liquidez (ILAAP)?",
+        "answer": "Los errores de implementaci\u00f3n para Proceso de Autoevaluaci\u00f3n de Liquidez (ILAAP) incluyen la mala calidad de los datos, la falta de informes automatizados y la formaci\u00f3n insuficiente del personal.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 369,
+        "question": "Bajo Proceso de Autoevaluaci\u00f3n de Liquidez (ILAAP), \u00bfc\u00f3mo se definen y reportan los impagos o defaults?",
+        "answer": "Los impagos bajo Proceso de Autoevaluaci\u00f3n de Liquidez (ILAAP) se definen como pagos vencidos por m\u00e1s de 90 d\u00edas o si es poco probable que el deudor pague sin ejecutar la garant\u00eda.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 370,
+        "question": "\u00bfCu\u00e1les son los requisitos de divulgaci\u00f3n para Proceso de Autoevaluaci\u00f3n de Liquidez (ILAAP) seg\u00fan los est\u00e1ndares regulatorios?",
+        "answer": "Los requisitos de divulgaci\u00f3n para Proceso de Autoevaluaci\u00f3n de Liquidez (ILAAP) exigen informes trimestrales sobre la composici\u00f3n del capital y los niveles de exposici\u00f3n al riesgo.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 371,
+        "question": "\u00bfQu\u00e9 sanciones prev\u00e9 el regulador por incumplir Proceso de Autoevaluaci\u00f3n de Liquidez (ILAAP)?",
+        "answer": "Las sanciones por incumplir Proceso de Autoevaluaci\u00f3n de Liquidez (ILAAP) pueden incluir multas pecuniarias elevadas y la revocaci\u00f3n de licencias operativas espec\u00edficas.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 372,
+        "question": "\u00bfC\u00f3mo afecta Proceso de Autoevaluaci\u00f3n de Liquidez (ILAAP) a la solvencia de una entidad financiera en Espa\u00f1a?",
+        "answer": "La solvencia se ve reforzada por Proceso de Autoevaluaci\u00f3n de Liquidez (ILAAP) al obligar a las entidades a retener beneficios como reservas de capital frente a riesgos inesperados.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 373,
+        "question": "\u00bfCu\u00e1l es la frecuencia de reporte requerida para Proceso de Autoevaluaci\u00f3n de Liquidez (ILAAP)?",
+        "answer": "La frecuencia de reporte para Proceso de Autoevaluaci\u00f3n de Liquidez (ILAAP) es generalmente trimestral, aunque eventos de riesgo mayor pueden exigir reportes ad-hoc inmediatos.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 374,
+        "question": "\u00bfQui\u00e9n es el responsable \u00faltimo dentro de la entidad de supervisar Proceso de Autoevaluaci\u00f3n de Liquidez (ILAAP)?",
+        "answer": "El Consejo de Administraci\u00f3n es el responsable final de asegurar que el marco de Proceso de Autoevaluaci\u00f3n de Liquidez (ILAAP) est\u00e9 correctamente implementado y dotado de recursos.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 375,
+        "question": "\u00bfQu\u00e9 diferencias existen entre la normativa europea y la espa\u00f1ola sobre Proceso de Autoevaluaci\u00f3n de Liquidez (ILAAP)?",
+        "answer": "La normativa espa\u00f1ola sobre Proceso de Autoevaluaci\u00f3n de Liquidez (ILAAP) suele transponer las directivas europeas a\u00f1adiendo criterios espec\u00edficos de la Circular del Banco de Espa\u00f1a.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 376,
+        "question": "\u00bfCu\u00e1les son los requisitos principales para Planes de Recuperaci\u00f3n y Resoluci\u00f3n (BRRD)?",
+        "answer": "Los requisitos principales para Planes de Recuperaci\u00f3n y Resoluci\u00f3n (BRRD) implican mantener un colch\u00f3n de capital m\u00ednimo y realizar pruebas de estr\u00e9s rigurosas.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 377,
+        "question": "\u00bfC\u00f3mo calcula un banco su exposici\u00f3n bajo el marco de Planes de Recuperaci\u00f3n y Resoluci\u00f3n (BRRD)?",
+        "answer": "El c\u00e1lculo de la exposici\u00f3n bajo Planes de Recuperaci\u00f3n y Resoluci\u00f3n (BRRD) requiere datos hist\u00f3ricos de p\u00e9rdidas e indicadores macroecon\u00f3micos prospectivos.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 378,
+        "question": "\u00bfCu\u00e1l es el papel de la auditor\u00eda interna en la revisi\u00f3n de Planes de Recuperaci\u00f3n y Resoluci\u00f3n (BRRD)?",
+        "answer": "La auditor\u00eda interna debe verificar de forma independiente que los procesos de Planes de Recuperaci\u00f3n y Resoluci\u00f3n (BRRD) se alineen con el apetito de riesgo aprobado por el consejo.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 379,
+        "question": "Explique el impacto de Planes de Recuperaci\u00f3n y Resoluci\u00f3n (BRRD) en los activos ponderados por riesgo.",
+        "answer": "El impacto de Planes de Recuperaci\u00f3n y Resoluci\u00f3n (BRRD) en los activos ponderados por riesgo es significativo, requiriendo a menudo mayor capital para exposiciones especulativas.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 380,
+        "question": "\u00bfQu\u00e9 documentaci\u00f3n se requiere para auditar Planes de Recuperaci\u00f3n y Resoluci\u00f3n (BRRD)?",
+        "answer": "La documentaci\u00f3n para auditar Planes de Recuperaci\u00f3n y Resoluci\u00f3n (BRRD) incluye informes de validaci\u00f3n de modelos, mapas de linaje de datos y registros de cumplimiento de pol\u00edticas.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 381,
+        "question": "Defina los indicadores clave de desempe\u00f1o (KPI) para Planes de Recuperaci\u00f3n y Resoluci\u00f3n (BRRD).",
+        "answer": "Los indicadores clave de desempe\u00f1o para Planes de Recuperaci\u00f3n y Resoluci\u00f3n (BRRD) incluyen el ratio de capital sobre activos y la frecuencia de incumplimiento de l\u00edmites.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 382,
+        "question": "\u00bfC\u00f3mo se integra Planes de Recuperaci\u00f3n y Resoluci\u00f3n (BRRD) con la estrategia general de riesgo crediticio?",
+        "answer": "La integraci\u00f3n de Planes de Recuperaci\u00f3n y Resoluci\u00f3n (BRRD) con la estrategia de riesgo de cr\u00e9dito garantiza que la toma de riesgos se mantenga dentro de los l\u00edmites regulatorios definidos.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 383,
+        "question": "\u00bfCu\u00e1les son los errores comunes al implementar Planes de Recuperaci\u00f3n y Resoluci\u00f3n (BRRD)?",
+        "answer": "Los errores de implementaci\u00f3n para Planes de Recuperaci\u00f3n y Resoluci\u00f3n (BRRD) incluyen la mala calidad de los datos, la falta de informes automatizados y la formaci\u00f3n insuficiente del personal.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 384,
+        "question": "Bajo Planes de Recuperaci\u00f3n y Resoluci\u00f3n (BRRD), \u00bfc\u00f3mo se definen y reportan los impagos o defaults?",
+        "answer": "Los impagos bajo Planes de Recuperaci\u00f3n y Resoluci\u00f3n (BRRD) se definen como pagos vencidos por m\u00e1s de 90 d\u00edas o si es poco probable que el deudor pague sin ejecutar la garant\u00eda.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 385,
+        "question": "\u00bfCu\u00e1les son los requisitos de divulgaci\u00f3n para Planes de Recuperaci\u00f3n y Resoluci\u00f3n (BRRD) seg\u00fan los est\u00e1ndares regulatorios?",
+        "answer": "Los requisitos de divulgaci\u00f3n para Planes de Recuperaci\u00f3n y Resoluci\u00f3n (BRRD) exigen informes trimestrales sobre la composici\u00f3n del capital y los niveles de exposici\u00f3n al riesgo.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 386,
+        "question": "\u00bfQu\u00e9 sanciones prev\u00e9 el regulador por incumplir Planes de Recuperaci\u00f3n y Resoluci\u00f3n (BRRD)?",
+        "answer": "Las sanciones por incumplir Planes de Recuperaci\u00f3n y Resoluci\u00f3n (BRRD) pueden incluir multas pecuniarias elevadas y la revocaci\u00f3n de licencias operativas espec\u00edficas.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 387,
+        "question": "\u00bfC\u00f3mo afecta Planes de Recuperaci\u00f3n y Resoluci\u00f3n (BRRD) a la solvencia de una entidad financiera en Espa\u00f1a?",
+        "answer": "La solvencia se ve reforzada por Planes de Recuperaci\u00f3n y Resoluci\u00f3n (BRRD) al obligar a las entidades a retener beneficios como reservas de capital frente a riesgos inesperados.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 388,
+        "question": "\u00bfCu\u00e1l es la frecuencia de reporte requerida para Planes de Recuperaci\u00f3n y Resoluci\u00f3n (BRRD)?",
+        "answer": "La frecuencia de reporte para Planes de Recuperaci\u00f3n y Resoluci\u00f3n (BRRD) es generalmente trimestral, aunque eventos de riesgo mayor pueden exigir reportes ad-hoc inmediatos.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 389,
+        "question": "\u00bfQui\u00e9n es el responsable \u00faltimo dentro de la entidad de supervisar Planes de Recuperaci\u00f3n y Resoluci\u00f3n (BRRD)?",
+        "answer": "El Consejo de Administraci\u00f3n es el responsable final de asegurar que el marco de Planes de Recuperaci\u00f3n y Resoluci\u00f3n (BRRD) est\u00e9 correctamente implementado y dotado de recursos.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 390,
+        "question": "\u00bfQu\u00e9 diferencias existen entre la normativa europea y la espa\u00f1ola sobre Planes de Recuperaci\u00f3n y Resoluci\u00f3n (BRRD)?",
+        "answer": "La normativa espa\u00f1ola sobre Planes de Recuperaci\u00f3n y Resoluci\u00f3n (BRRD) suele transponer las directivas europeas a\u00f1adiendo criterios espec\u00edficos de la Circular del Banco de Espa\u00f1a.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 391,
+        "question": "\u00bfCu\u00e1les son los requisitos principales para Riesgo de Tipo de Inter\u00e9s en la Cartera de Inversi\u00f3n (IRRBB)?",
+        "answer": "Los requisitos principales para Riesgo de Tipo de Inter\u00e9s en la Cartera de Inversi\u00f3n (IRRBB) implican mantener un colch\u00f3n de capital m\u00ednimo y realizar pruebas de estr\u00e9s rigurosas.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 392,
+        "question": "\u00bfC\u00f3mo calcula un banco su exposici\u00f3n bajo el marco de Riesgo de Tipo de Inter\u00e9s en la Cartera de Inversi\u00f3n (IRRBB)?",
+        "answer": "El c\u00e1lculo de la exposici\u00f3n bajo Riesgo de Tipo de Inter\u00e9s en la Cartera de Inversi\u00f3n (IRRBB) requiere datos hist\u00f3ricos de p\u00e9rdidas e indicadores macroecon\u00f3micos prospectivos.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 393,
+        "question": "\u00bfCu\u00e1l es el papel de la auditor\u00eda interna en la revisi\u00f3n de Riesgo de Tipo de Inter\u00e9s en la Cartera de Inversi\u00f3n (IRRBB)?",
+        "answer": "La auditor\u00eda interna debe verificar de forma independiente que los procesos de Riesgo de Tipo de Inter\u00e9s en la Cartera de Inversi\u00f3n (IRRBB) se alineen con el apetito de riesgo aprobado por el consejo.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 394,
+        "question": "Explique el impacto de Riesgo de Tipo de Inter\u00e9s en la Cartera de Inversi\u00f3n (IRRBB) en los activos ponderados por riesgo.",
+        "answer": "El impacto de Riesgo de Tipo de Inter\u00e9s en la Cartera de Inversi\u00f3n (IRRBB) en los activos ponderados por riesgo es significativo, requiriendo a menudo mayor capital para exposiciones especulativas.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 395,
+        "question": "\u00bfQu\u00e9 documentaci\u00f3n se requiere para auditar Riesgo de Tipo de Inter\u00e9s en la Cartera de Inversi\u00f3n (IRRBB)?",
+        "answer": "La documentaci\u00f3n para auditar Riesgo de Tipo de Inter\u00e9s en la Cartera de Inversi\u00f3n (IRRBB) incluye informes de validaci\u00f3n de modelos, mapas de linaje de datos y registros de cumplimiento de pol\u00edticas.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 396,
+        "question": "Defina los indicadores clave de desempe\u00f1o (KPI) para Riesgo de Tipo de Inter\u00e9s en la Cartera de Inversi\u00f3n (IRRBB).",
+        "answer": "Los indicadores clave de desempe\u00f1o para Riesgo de Tipo de Inter\u00e9s en la Cartera de Inversi\u00f3n (IRRBB) incluyen el ratio de capital sobre activos y la frecuencia de incumplimiento de l\u00edmites.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 397,
+        "question": "\u00bfC\u00f3mo se integra Riesgo de Tipo de Inter\u00e9s en la Cartera de Inversi\u00f3n (IRRBB) con la estrategia general de riesgo crediticio?",
+        "answer": "La integraci\u00f3n de Riesgo de Tipo de Inter\u00e9s en la Cartera de Inversi\u00f3n (IRRBB) con la estrategia de riesgo de cr\u00e9dito garantiza que la toma de riesgos se mantenga dentro de los l\u00edmites regulatorios definidos.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 398,
+        "question": "\u00bfCu\u00e1les son los errores comunes al implementar Riesgo de Tipo de Inter\u00e9s en la Cartera de Inversi\u00f3n (IRRBB)?",
+        "answer": "Los errores de implementaci\u00f3n para Riesgo de Tipo de Inter\u00e9s en la Cartera de Inversi\u00f3n (IRRBB) incluyen la mala calidad de los datos, la falta de informes automatizados y la formaci\u00f3n insuficiente del personal.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 399,
+        "question": "Bajo Riesgo de Tipo de Inter\u00e9s en la Cartera de Inversi\u00f3n (IRRBB), \u00bfc\u00f3mo se definen y reportan los impagos o defaults?",
+        "answer": "Los impagos bajo Riesgo de Tipo de Inter\u00e9s en la Cartera de Inversi\u00f3n (IRRBB) se definen como pagos vencidos por m\u00e1s de 90 d\u00edas o si es poco probable que el deudor pague sin ejecutar la garant\u00eda.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 400,
+        "question": "\u00bfCu\u00e1les son los requisitos de divulgaci\u00f3n para Riesgo de Tipo de Inter\u00e9s en la Cartera de Inversi\u00f3n (IRRBB) seg\u00fan los est\u00e1ndares regulatorios?",
+        "answer": "Los requisitos de divulgaci\u00f3n para Riesgo de Tipo de Inter\u00e9s en la Cartera de Inversi\u00f3n (IRRBB) exigen informes trimestrales sobre la composici\u00f3n del capital y los niveles de exposici\u00f3n al riesgo.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 401,
+        "question": "\u00bfQu\u00e9 sanciones prev\u00e9 el regulador por incumplir Riesgo de Tipo de Inter\u00e9s en la Cartera de Inversi\u00f3n (IRRBB)?",
+        "answer": "Las sanciones por incumplir Riesgo de Tipo de Inter\u00e9s en la Cartera de Inversi\u00f3n (IRRBB) pueden incluir multas pecuniarias elevadas y la revocaci\u00f3n de licencias operativas espec\u00edficas.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 402,
+        "question": "\u00bfC\u00f3mo afecta Riesgo de Tipo de Inter\u00e9s en la Cartera de Inversi\u00f3n (IRRBB) a la solvencia de una entidad financiera en Espa\u00f1a?",
+        "answer": "La solvencia se ve reforzada por Riesgo de Tipo de Inter\u00e9s en la Cartera de Inversi\u00f3n (IRRBB) al obligar a las entidades a retener beneficios como reservas de capital frente a riesgos inesperados.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 403,
+        "question": "\u00bfCu\u00e1l es la frecuencia de reporte requerida para Riesgo de Tipo de Inter\u00e9s en la Cartera de Inversi\u00f3n (IRRBB)?",
+        "answer": "La frecuencia de reporte para Riesgo de Tipo de Inter\u00e9s en la Cartera de Inversi\u00f3n (IRRBB) es generalmente trimestral, aunque eventos de riesgo mayor pueden exigir reportes ad-hoc inmediatos.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 404,
+        "question": "\u00bfQui\u00e9n es el responsable \u00faltimo dentro de la entidad de supervisar Riesgo de Tipo de Inter\u00e9s en la Cartera de Inversi\u00f3n (IRRBB)?",
+        "answer": "El Consejo de Administraci\u00f3n es el responsable final de asegurar que el marco de Riesgo de Tipo de Inter\u00e9s en la Cartera de Inversi\u00f3n (IRRBB) est\u00e9 correctamente implementado y dotado de recursos.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 405,
+        "question": "\u00bfQu\u00e9 diferencias existen entre la normativa europea y la espa\u00f1ola sobre Riesgo de Tipo de Inter\u00e9s en la Cartera de Inversi\u00f3n (IRRBB)?",
+        "answer": "La normativa espa\u00f1ola sobre Riesgo de Tipo de Inter\u00e9s en la Cartera de Inversi\u00f3n (IRRBB) suele transponer las directivas europeas a\u00f1adiendo criterios espec\u00edficos de la Circular del Banco de Espa\u00f1a.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 406,
+        "question": "\u00bfCu\u00e1les son los requisitos principales para Gesti\u00f3n del Riesgo de Modelo (MRM)?",
+        "answer": "Los requisitos principales para Gesti\u00f3n del Riesgo de Modelo (MRM) implican mantener un colch\u00f3n de capital m\u00ednimo y realizar pruebas de estr\u00e9s rigurosas.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 407,
+        "question": "\u00bfC\u00f3mo calcula un banco su exposici\u00f3n bajo el marco de Gesti\u00f3n del Riesgo de Modelo (MRM)?",
+        "answer": "El c\u00e1lculo de la exposici\u00f3n bajo Gesti\u00f3n del Riesgo de Modelo (MRM) requiere datos hist\u00f3ricos de p\u00e9rdidas e indicadores macroecon\u00f3micos prospectivos.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 408,
+        "question": "\u00bfCu\u00e1l es el papel de la auditor\u00eda interna en la revisi\u00f3n de Gesti\u00f3n del Riesgo de Modelo (MRM)?",
+        "answer": "La auditor\u00eda interna debe verificar de forma independiente que los procesos de Gesti\u00f3n del Riesgo de Modelo (MRM) se alineen con el apetito de riesgo aprobado por el consejo.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 409,
+        "question": "Explique el impacto de Gesti\u00f3n del Riesgo de Modelo (MRM) en los activos ponderados por riesgo.",
+        "answer": "El impacto de Gesti\u00f3n del Riesgo de Modelo (MRM) en los activos ponderados por riesgo es significativo, requiriendo a menudo mayor capital para exposiciones especulativas.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 410,
+        "question": "\u00bfQu\u00e9 documentaci\u00f3n se requiere para auditar Gesti\u00f3n del Riesgo de Modelo (MRM)?",
+        "answer": "La documentaci\u00f3n para auditar Gesti\u00f3n del Riesgo de Modelo (MRM) incluye informes de validaci\u00f3n de modelos, mapas de linaje de datos y registros de cumplimiento de pol\u00edticas.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 411,
+        "question": "Defina los indicadores clave de desempe\u00f1o (KPI) para Gesti\u00f3n del Riesgo de Modelo (MRM).",
+        "answer": "Los indicadores clave de desempe\u00f1o para Gesti\u00f3n del Riesgo de Modelo (MRM) incluyen el ratio de capital sobre activos y la frecuencia de incumplimiento de l\u00edmites.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 412,
+        "question": "\u00bfC\u00f3mo se integra Gesti\u00f3n del Riesgo de Modelo (MRM) con la estrategia general de riesgo crediticio?",
+        "answer": "La integraci\u00f3n de Gesti\u00f3n del Riesgo de Modelo (MRM) con la estrategia de riesgo de cr\u00e9dito garantiza que la toma de riesgos se mantenga dentro de los l\u00edmites regulatorios definidos.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 413,
+        "question": "\u00bfCu\u00e1les son los errores comunes al implementar Gesti\u00f3n del Riesgo de Modelo (MRM)?",
+        "answer": "Los errores de implementaci\u00f3n para Gesti\u00f3n del Riesgo de Modelo (MRM) incluyen la mala calidad de los datos, la falta de informes automatizados y la formaci\u00f3n insuficiente del personal.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 414,
+        "question": "Bajo Gesti\u00f3n del Riesgo de Modelo (MRM), \u00bfc\u00f3mo se definen y reportan los impagos o defaults?",
+        "answer": "Los impagos bajo Gesti\u00f3n del Riesgo de Modelo (MRM) se definen como pagos vencidos por m\u00e1s de 90 d\u00edas o si es poco probable que el deudor pague sin ejecutar la garant\u00eda.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 415,
+        "question": "\u00bfCu\u00e1les son los requisitos de divulgaci\u00f3n para Gesti\u00f3n del Riesgo de Modelo (MRM) seg\u00fan los est\u00e1ndares regulatorios?",
+        "answer": "Los requisitos de divulgaci\u00f3n para Gesti\u00f3n del Riesgo de Modelo (MRM) exigen informes trimestrales sobre la composici\u00f3n del capital y los niveles de exposici\u00f3n al riesgo.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 416,
+        "question": "\u00bfQu\u00e9 sanciones prev\u00e9 el regulador por incumplir Gesti\u00f3n del Riesgo de Modelo (MRM)?",
+        "answer": "Las sanciones por incumplir Gesti\u00f3n del Riesgo de Modelo (MRM) pueden incluir multas pecuniarias elevadas y la revocaci\u00f3n de licencias operativas espec\u00edficas.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 417,
+        "question": "\u00bfC\u00f3mo afecta Gesti\u00f3n del Riesgo de Modelo (MRM) a la solvencia de una entidad financiera en Espa\u00f1a?",
+        "answer": "La solvencia se ve reforzada por Gesti\u00f3n del Riesgo de Modelo (MRM) al obligar a las entidades a retener beneficios como reservas de capital frente a riesgos inesperados.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 418,
+        "question": "\u00bfCu\u00e1l es la frecuencia de reporte requerida para Gesti\u00f3n del Riesgo de Modelo (MRM)?",
+        "answer": "La frecuencia de reporte para Gesti\u00f3n del Riesgo de Modelo (MRM) es generalmente trimestral, aunque eventos de riesgo mayor pueden exigir reportes ad-hoc inmediatos.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 419,
+        "question": "\u00bfQui\u00e9n es el responsable \u00faltimo dentro de la entidad de supervisar Gesti\u00f3n del Riesgo de Modelo (MRM)?",
+        "answer": "El Consejo de Administraci\u00f3n es el responsable final de asegurar que el marco de Gesti\u00f3n del Riesgo de Modelo (MRM) est\u00e9 correctamente implementado y dotado de recursos.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 420,
+        "question": "\u00bfQu\u00e9 diferencias existen entre la normativa europea y la espa\u00f1ola sobre Gesti\u00f3n del Riesgo de Modelo (MRM)?",
+        "answer": "La normativa espa\u00f1ola sobre Gesti\u00f3n del Riesgo de Modelo (MRM) suele transponer las directivas europeas a\u00f1adiendo criterios espec\u00edficos de la Circular del Banco de Espa\u00f1a.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 421,
+        "question": "\u00bfCu\u00e1les son los requisitos principales para Externalizaci\u00f3n y Computaci\u00f3n en la Nube (Cloud Computing)?",
+        "answer": "Los requisitos principales para Externalizaci\u00f3n y Computaci\u00f3n en la Nube (Cloud Computing) implican mantener un colch\u00f3n de capital m\u00ednimo y realizar pruebas de estr\u00e9s rigurosas.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 422,
+        "question": "\u00bfC\u00f3mo calcula un banco su exposici\u00f3n bajo el marco de Externalizaci\u00f3n y Computaci\u00f3n en la Nube (Cloud Computing)?",
+        "answer": "El c\u00e1lculo de la exposici\u00f3n bajo Externalizaci\u00f3n y Computaci\u00f3n en la Nube (Cloud Computing) requiere datos hist\u00f3ricos de p\u00e9rdidas e indicadores macroecon\u00f3micos prospectivos.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 423,
+        "question": "\u00bfCu\u00e1l es el papel de la auditor\u00eda interna en la revisi\u00f3n de Externalizaci\u00f3n y Computaci\u00f3n en la Nube (Cloud Computing)?",
+        "answer": "La auditor\u00eda interna debe verificar de forma independiente que los procesos de Externalizaci\u00f3n y Computaci\u00f3n en la Nube (Cloud Computing) se alineen con el apetito de riesgo aprobado por el consejo.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 424,
+        "question": "Explique el impacto de Externalizaci\u00f3n y Computaci\u00f3n en la Nube (Cloud Computing) en los activos ponderados por riesgo.",
+        "answer": "El impacto de Externalizaci\u00f3n y Computaci\u00f3n en la Nube (Cloud Computing) en los activos ponderados por riesgo es significativo, requiriendo a menudo mayor capital para exposiciones especulativas.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 425,
+        "question": "\u00bfQu\u00e9 documentaci\u00f3n se requiere para auditar Externalizaci\u00f3n y Computaci\u00f3n en la Nube (Cloud Computing)?",
+        "answer": "La documentaci\u00f3n para auditar Externalizaci\u00f3n y Computaci\u00f3n en la Nube (Cloud Computing) incluye informes de validaci\u00f3n de modelos, mapas de linaje de datos y registros de cumplimiento de pol\u00edticas.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 426,
+        "question": "Defina los indicadores clave de desempe\u00f1o (KPI) para Externalizaci\u00f3n y Computaci\u00f3n en la Nube (Cloud Computing).",
+        "answer": "Los indicadores clave de desempe\u00f1o para Externalizaci\u00f3n y Computaci\u00f3n en la Nube (Cloud Computing) incluyen el ratio de capital sobre activos y la frecuencia de incumplimiento de l\u00edmites.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 427,
+        "question": "\u00bfC\u00f3mo se integra Externalizaci\u00f3n y Computaci\u00f3n en la Nube (Cloud Computing) con la estrategia general de riesgo crediticio?",
+        "answer": "La integraci\u00f3n de Externalizaci\u00f3n y Computaci\u00f3n en la Nube (Cloud Computing) con la estrategia de riesgo de cr\u00e9dito garantiza que la toma de riesgos se mantenga dentro de los l\u00edmites regulatorios definidos.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 428,
+        "question": "\u00bfCu\u00e1les son los errores comunes al implementar Externalizaci\u00f3n y Computaci\u00f3n en la Nube (Cloud Computing)?",
+        "answer": "Los errores de implementaci\u00f3n para Externalizaci\u00f3n y Computaci\u00f3n en la Nube (Cloud Computing) incluyen la mala calidad de los datos, la falta de informes automatizados y la formaci\u00f3n insuficiente del personal.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 429,
+        "question": "Bajo Externalizaci\u00f3n y Computaci\u00f3n en la Nube (Cloud Computing), \u00bfc\u00f3mo se definen y reportan los impagos o defaults?",
+        "answer": "Los impagos bajo Externalizaci\u00f3n y Computaci\u00f3n en la Nube (Cloud Computing) se definen como pagos vencidos por m\u00e1s de 90 d\u00edas o si es poco probable que el deudor pague sin ejecutar la garant\u00eda.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 430,
+        "question": "\u00bfCu\u00e1les son los requisitos de divulgaci\u00f3n para Externalizaci\u00f3n y Computaci\u00f3n en la Nube (Cloud Computing) seg\u00fan los est\u00e1ndares regulatorios?",
+        "answer": "Los requisitos de divulgaci\u00f3n para Externalizaci\u00f3n y Computaci\u00f3n en la Nube (Cloud Computing) exigen informes trimestrales sobre la composici\u00f3n del capital y los niveles de exposici\u00f3n al riesgo.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 431,
+        "question": "\u00bfQu\u00e9 sanciones prev\u00e9 el regulador por incumplir Externalizaci\u00f3n y Computaci\u00f3n en la Nube (Cloud Computing)?",
+        "answer": "Las sanciones por incumplir Externalizaci\u00f3n y Computaci\u00f3n en la Nube (Cloud Computing) pueden incluir multas pecuniarias elevadas y la revocaci\u00f3n de licencias operativas espec\u00edficas.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 432,
+        "question": "\u00bfC\u00f3mo afecta Externalizaci\u00f3n y Computaci\u00f3n en la Nube (Cloud Computing) a la solvencia de una entidad financiera en Espa\u00f1a?",
+        "answer": "La solvencia se ve reforzada por Externalizaci\u00f3n y Computaci\u00f3n en la Nube (Cloud Computing) al obligar a las entidades a retener beneficios como reservas de capital frente a riesgos inesperados.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 433,
+        "question": "\u00bfCu\u00e1l es la frecuencia de reporte requerida para Externalizaci\u00f3n y Computaci\u00f3n en la Nube (Cloud Computing)?",
+        "answer": "La frecuencia de reporte para Externalizaci\u00f3n y Computaci\u00f3n en la Nube (Cloud Computing) es generalmente trimestral, aunque eventos de riesgo mayor pueden exigir reportes ad-hoc inmediatos.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 434,
+        "question": "\u00bfQui\u00e9n es el responsable \u00faltimo dentro de la entidad de supervisar Externalizaci\u00f3n y Computaci\u00f3n en la Nube (Cloud Computing)?",
+        "answer": "El Consejo de Administraci\u00f3n es el responsable final de asegurar que el marco de Externalizaci\u00f3n y Computaci\u00f3n en la Nube (Cloud Computing) est\u00e9 correctamente implementado y dotado de recursos.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 435,
+        "question": "\u00bfQu\u00e9 diferencias existen entre la normativa europea y la espa\u00f1ola sobre Externalizaci\u00f3n y Computaci\u00f3n en la Nube (Cloud Computing)?",
+        "answer": "La normativa espa\u00f1ola sobre Externalizaci\u00f3n y Computaci\u00f3n en la Nube (Cloud Computing) suele transponer las directivas europeas a\u00f1adiendo criterios espec\u00edficos de la Circular del Banco de Espa\u00f1a.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 436,
+        "question": "\u00bfCu\u00e1les son los requisitos principales para Riesgo de Ciberseguridad y Resiliencia Operativa?",
+        "answer": "Los requisitos principales para Riesgo de Ciberseguridad y Resiliencia Operativa implican mantener un colch\u00f3n de capital m\u00ednimo y realizar pruebas de estr\u00e9s rigurosas.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 437,
+        "question": "\u00bfC\u00f3mo calcula un banco su exposici\u00f3n bajo el marco de Riesgo de Ciberseguridad y Resiliencia Operativa?",
+        "answer": "El c\u00e1lculo de la exposici\u00f3n bajo Riesgo de Ciberseguridad y Resiliencia Operativa requiere datos hist\u00f3ricos de p\u00e9rdidas e indicadores macroecon\u00f3micos prospectivos.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 438,
+        "question": "\u00bfCu\u00e1l es el papel de la auditor\u00eda interna en la revisi\u00f3n de Riesgo de Ciberseguridad y Resiliencia Operativa?",
+        "answer": "La auditor\u00eda interna debe verificar de forma independiente que los procesos de Riesgo de Ciberseguridad y Resiliencia Operativa se alineen con el apetito de riesgo aprobado por el consejo.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 439,
+        "question": "Explique el impacto de Riesgo de Ciberseguridad y Resiliencia Operativa en los activos ponderados por riesgo.",
+        "answer": "El impacto de Riesgo de Ciberseguridad y Resiliencia Operativa en los activos ponderados por riesgo es significativo, requiriendo a menudo mayor capital para exposiciones especulativas.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 440,
+        "question": "\u00bfQu\u00e9 documentaci\u00f3n se requiere para auditar Riesgo de Ciberseguridad y Resiliencia Operativa?",
+        "answer": "La documentaci\u00f3n para auditar Riesgo de Ciberseguridad y Resiliencia Operativa incluye informes de validaci\u00f3n de modelos, mapas de linaje de datos y registros de cumplimiento de pol\u00edticas.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 441,
+        "question": "Defina los indicadores clave de desempe\u00f1o (KPI) para Riesgo de Ciberseguridad y Resiliencia Operativa.",
+        "answer": "Los indicadores clave de desempe\u00f1o para Riesgo de Ciberseguridad y Resiliencia Operativa incluyen el ratio de capital sobre activos y la frecuencia de incumplimiento de l\u00edmites.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 442,
+        "question": "\u00bfC\u00f3mo se integra Riesgo de Ciberseguridad y Resiliencia Operativa con la estrategia general de riesgo crediticio?",
+        "answer": "La integraci\u00f3n de Riesgo de Ciberseguridad y Resiliencia Operativa con la estrategia de riesgo de cr\u00e9dito garantiza que la toma de riesgos se mantenga dentro de los l\u00edmites regulatorios definidos.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 443,
+        "question": "\u00bfCu\u00e1les son los errores comunes al implementar Riesgo de Ciberseguridad y Resiliencia Operativa?",
+        "answer": "Los errores de implementaci\u00f3n para Riesgo de Ciberseguridad y Resiliencia Operativa incluyen la mala calidad de los datos, la falta de informes automatizados y la formaci\u00f3n insuficiente del personal.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 444,
+        "question": "Bajo Riesgo de Ciberseguridad y Resiliencia Operativa, \u00bfc\u00f3mo se definen y reportan los impagos o defaults?",
+        "answer": "Los impagos bajo Riesgo de Ciberseguridad y Resiliencia Operativa se definen como pagos vencidos por m\u00e1s de 90 d\u00edas o si es poco probable que el deudor pague sin ejecutar la garant\u00eda.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 445,
+        "question": "\u00bfCu\u00e1les son los requisitos de divulgaci\u00f3n para Riesgo de Ciberseguridad y Resiliencia Operativa seg\u00fan los est\u00e1ndares regulatorios?",
+        "answer": "Los requisitos de divulgaci\u00f3n para Riesgo de Ciberseguridad y Resiliencia Operativa exigen informes trimestrales sobre la composici\u00f3n del capital y los niveles de exposici\u00f3n al riesgo.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 446,
+        "question": "\u00bfQu\u00e9 sanciones prev\u00e9 el regulador por incumplir Riesgo de Ciberseguridad y Resiliencia Operativa?",
+        "answer": "Las sanciones por incumplir Riesgo de Ciberseguridad y Resiliencia Operativa pueden incluir multas pecuniarias elevadas y la revocaci\u00f3n de licencias operativas espec\u00edficas.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 447,
+        "question": "\u00bfC\u00f3mo afecta Riesgo de Ciberseguridad y Resiliencia Operativa a la solvencia de una entidad financiera en Espa\u00f1a?",
+        "answer": "La solvencia se ve reforzada por Riesgo de Ciberseguridad y Resiliencia Operativa al obligar a las entidades a retener beneficios como reservas de capital frente a riesgos inesperados.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 448,
+        "question": "\u00bfCu\u00e1l es la frecuencia de reporte requerida para Riesgo de Ciberseguridad y Resiliencia Operativa?",
+        "answer": "La frecuencia de reporte para Riesgo de Ciberseguridad y Resiliencia Operativa es generalmente trimestral, aunque eventos de riesgo mayor pueden exigir reportes ad-hoc inmediatos.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 449,
+        "question": "\u00bfQui\u00e9n es el responsable \u00faltimo dentro de la entidad de supervisar Riesgo de Ciberseguridad y Resiliencia Operativa?",
+        "answer": "El Consejo de Administraci\u00f3n es el responsable final de asegurar que el marco de Riesgo de Ciberseguridad y Resiliencia Operativa est\u00e9 correctamente implementado y dotado de recursos.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 450,
+        "question": "\u00bfQu\u00e9 diferencias existen entre la normativa europea y la espa\u00f1ola sobre Riesgo de Ciberseguridad y Resiliencia Operativa?",
+        "answer": "La normativa espa\u00f1ola sobre Riesgo de Ciberseguridad y Resiliencia Operativa suele transponer las directivas europeas a\u00f1adiendo criterios espec\u00edficos de la Circular del Banco de Espa\u00f1a.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 451,
+        "question": "\u00bfCu\u00e1les son los requisitos principales para Pruebas de Resistencia de Liquidez (Liquidity Stress Testing)?",
+        "answer": "Los requisitos principales para Pruebas de Resistencia de Liquidez (Liquidity Stress Testing) implican mantener un colch\u00f3n de capital m\u00ednimo y realizar pruebas de estr\u00e9s rigurosas.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 452,
+        "question": "\u00bfC\u00f3mo calcula un banco su exposici\u00f3n bajo el marco de Pruebas de Resistencia de Liquidez (Liquidity Stress Testing)?",
+        "answer": "El c\u00e1lculo de la exposici\u00f3n bajo Pruebas de Resistencia de Liquidez (Liquidity Stress Testing) requiere datos hist\u00f3ricos de p\u00e9rdidas e indicadores macroecon\u00f3micos prospectivos.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 453,
+        "question": "\u00bfCu\u00e1l es el papel de la auditor\u00eda interna en la revisi\u00f3n de Pruebas de Resistencia de Liquidez (Liquidity Stress Testing)?",
+        "answer": "La auditor\u00eda interna debe verificar de forma independiente que los procesos de Pruebas de Resistencia de Liquidez (Liquidity Stress Testing) se alineen con el apetito de riesgo aprobado por el consejo.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 454,
+        "question": "Explique el impacto de Pruebas de Resistencia de Liquidez (Liquidity Stress Testing) en los activos ponderados por riesgo.",
+        "answer": "El impacto de Pruebas de Resistencia de Liquidez (Liquidity Stress Testing) en los activos ponderados por riesgo es significativo, requiriendo a menudo mayor capital para exposiciones especulativas.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 455,
+        "question": "\u00bfQu\u00e9 documentaci\u00f3n se requiere para auditar Pruebas de Resistencia de Liquidez (Liquidity Stress Testing)?",
+        "answer": "La documentaci\u00f3n para auditar Pruebas de Resistencia de Liquidez (Liquidity Stress Testing) incluye informes de validaci\u00f3n de modelos, mapas de linaje de datos y registros de cumplimiento de pol\u00edticas.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 456,
+        "question": "Defina los indicadores clave de desempe\u00f1o (KPI) para Pruebas de Resistencia de Liquidez (Liquidity Stress Testing).",
+        "answer": "Los indicadores clave de desempe\u00f1o para Pruebas de Resistencia de Liquidez (Liquidity Stress Testing) incluyen el ratio de capital sobre activos y la frecuencia de incumplimiento de l\u00edmites.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 457,
+        "question": "\u00bfC\u00f3mo se integra Pruebas de Resistencia de Liquidez (Liquidity Stress Testing) con la estrategia general de riesgo crediticio?",
+        "answer": "La integraci\u00f3n de Pruebas de Resistencia de Liquidez (Liquidity Stress Testing) con la estrategia de riesgo de cr\u00e9dito garantiza que la toma de riesgos se mantenga dentro de los l\u00edmites regulatorios definidos.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 458,
+        "question": "\u00bfCu\u00e1les son los errores comunes al implementar Pruebas de Resistencia de Liquidez (Liquidity Stress Testing)?",
+        "answer": "Los errores de implementaci\u00f3n para Pruebas de Resistencia de Liquidez (Liquidity Stress Testing) incluyen la mala calidad de los datos, la falta de informes automatizados y la formaci\u00f3n insuficiente del personal.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 459,
+        "question": "Bajo Pruebas de Resistencia de Liquidez (Liquidity Stress Testing), \u00bfc\u00f3mo se definen y reportan los impagos o defaults?",
+        "answer": "Los impagos bajo Pruebas de Resistencia de Liquidez (Liquidity Stress Testing) se definen como pagos vencidos por m\u00e1s de 90 d\u00edas o si es poco probable que el deudor pague sin ejecutar la garant\u00eda.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 460,
+        "question": "\u00bfCu\u00e1les son los requisitos de divulgaci\u00f3n para Pruebas de Resistencia de Liquidez (Liquidity Stress Testing) seg\u00fan los est\u00e1ndares regulatorios?",
+        "answer": "Los requisitos de divulgaci\u00f3n para Pruebas de Resistencia de Liquidez (Liquidity Stress Testing) exigen informes trimestrales sobre la composici\u00f3n del capital y los niveles de exposici\u00f3n al riesgo.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 461,
+        "question": "\u00bfQu\u00e9 sanciones prev\u00e9 el regulador por incumplir Pruebas de Resistencia de Liquidez (Liquidity Stress Testing)?",
+        "answer": "Las sanciones por incumplir Pruebas de Resistencia de Liquidez (Liquidity Stress Testing) pueden incluir multas pecuniarias elevadas y la revocaci\u00f3n de licencias operativas espec\u00edficas.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 462,
+        "question": "\u00bfC\u00f3mo afecta Pruebas de Resistencia de Liquidez (Liquidity Stress Testing) a la solvencia de una entidad financiera en Espa\u00f1a?",
+        "answer": "La solvencia se ve reforzada por Pruebas de Resistencia de Liquidez (Liquidity Stress Testing) al obligar a las entidades a retener beneficios como reservas de capital frente a riesgos inesperados.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 463,
+        "question": "\u00bfCu\u00e1l es la frecuencia de reporte requerida para Pruebas de Resistencia de Liquidez (Liquidity Stress Testing)?",
+        "answer": "La frecuencia de reporte para Pruebas de Resistencia de Liquidez (Liquidity Stress Testing) es generalmente trimestral, aunque eventos de riesgo mayor pueden exigir reportes ad-hoc inmediatos.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 464,
+        "question": "\u00bfQui\u00e9n es el responsable \u00faltimo dentro de la entidad de supervisar Pruebas de Resistencia de Liquidez (Liquidity Stress Testing)?",
+        "answer": "El Consejo de Administraci\u00f3n es el responsable final de asegurar que el marco de Pruebas de Resistencia de Liquidez (Liquidity Stress Testing) est\u00e9 correctamente implementado y dotado de recursos.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 465,
+        "question": "\u00bfQu\u00e9 diferencias existen entre la normativa europea y la espa\u00f1ola sobre Pruebas de Resistencia de Liquidez (Liquidity Stress Testing)?",
+        "answer": "La normativa espa\u00f1ola sobre Pruebas de Resistencia de Liquidez (Liquidity Stress Testing) suele transponer las directivas europeas a\u00f1adiendo criterios espec\u00edficos de la Circular del Banco de Espa\u00f1a.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 466,
+        "question": "\u00bfCu\u00e1les son los requisitos principales para Informes de Supervisi\u00f3n (COREP y FINREP)?",
+        "answer": "Los requisitos principales para Informes de Supervisi\u00f3n (COREP y FINREP) implican mantener un colch\u00f3n de capital m\u00ednimo y realizar pruebas de estr\u00e9s rigurosas.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 467,
+        "question": "\u00bfC\u00f3mo calcula un banco su exposici\u00f3n bajo el marco de Informes de Supervisi\u00f3n (COREP y FINREP)?",
+        "answer": "El c\u00e1lculo de la exposici\u00f3n bajo Informes de Supervisi\u00f3n (COREP y FINREP) requiere datos hist\u00f3ricos de p\u00e9rdidas e indicadores macroecon\u00f3micos prospectivos.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 468,
+        "question": "\u00bfCu\u00e1l es el papel de la auditor\u00eda interna en la revisi\u00f3n de Informes de Supervisi\u00f3n (COREP y FINREP)?",
+        "answer": "La auditor\u00eda interna debe verificar de forma independiente que los procesos de Informes de Supervisi\u00f3n (COREP y FINREP) se alineen con el apetito de riesgo aprobado por el consejo.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 469,
+        "question": "Explique el impacto de Informes de Supervisi\u00f3n (COREP y FINREP) en los activos ponderados por riesgo.",
+        "answer": "El impacto de Informes de Supervisi\u00f3n (COREP y FINREP) en los activos ponderados por riesgo es significativo, requiriendo a menudo mayor capital para exposiciones especulativas.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 470,
+        "question": "\u00bfQu\u00e9 documentaci\u00f3n se requiere para auditar Informes de Supervisi\u00f3n (COREP y FINREP)?",
+        "answer": "La documentaci\u00f3n para auditar Informes de Supervisi\u00f3n (COREP y FINREP) incluye informes de validaci\u00f3n de modelos, mapas de linaje de datos y registros de cumplimiento de pol\u00edticas.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 471,
+        "question": "Defina los indicadores clave de desempe\u00f1o (KPI) para Informes de Supervisi\u00f3n (COREP y FINREP).",
+        "answer": "Los indicadores clave de desempe\u00f1o para Informes de Supervisi\u00f3n (COREP y FINREP) incluyen el ratio de capital sobre activos y la frecuencia de incumplimiento de l\u00edmites.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 472,
+        "question": "\u00bfC\u00f3mo se integra Informes de Supervisi\u00f3n (COREP y FINREP) con la estrategia general de riesgo crediticio?",
+        "answer": "La integraci\u00f3n de Informes de Supervisi\u00f3n (COREP y FINREP) con la estrategia de riesgo de cr\u00e9dito garantiza que la toma de riesgos se mantenga dentro de los l\u00edmites regulatorios definidos.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 473,
+        "question": "\u00bfCu\u00e1les son los errores comunes al implementar Informes de Supervisi\u00f3n (COREP y FINREP)?",
+        "answer": "Los errores de implementaci\u00f3n para Informes de Supervisi\u00f3n (COREP y FINREP) incluyen la mala calidad de los datos, la falta de informes automatizados y la formaci\u00f3n insuficiente del personal.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 474,
+        "question": "Bajo Informes de Supervisi\u00f3n (COREP y FINREP), \u00bfc\u00f3mo se definen y reportan los impagos o defaults?",
+        "answer": "Los impagos bajo Informes de Supervisi\u00f3n (COREP y FINREP) se definen como pagos vencidos por m\u00e1s de 90 d\u00edas o si es poco probable que el deudor pague sin ejecutar la garant\u00eda.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 475,
+        "question": "\u00bfCu\u00e1les son los requisitos de divulgaci\u00f3n para Informes de Supervisi\u00f3n (COREP y FINREP) seg\u00fan los est\u00e1ndares regulatorios?",
+        "answer": "Los requisitos de divulgaci\u00f3n para Informes de Supervisi\u00f3n (COREP y FINREP) exigen informes trimestrales sobre la composici\u00f3n del capital y los niveles de exposici\u00f3n al riesgo.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 476,
+        "question": "\u00bfQu\u00e9 sanciones prev\u00e9 el regulador por incumplir Informes de Supervisi\u00f3n (COREP y FINREP)?",
+        "answer": "Las sanciones por incumplir Informes de Supervisi\u00f3n (COREP y FINREP) pueden incluir multas pecuniarias elevadas y la revocaci\u00f3n de licencias operativas espec\u00edficas.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 477,
+        "question": "\u00bfC\u00f3mo afecta Informes de Supervisi\u00f3n (COREP y FINREP) a la solvencia de una entidad financiera en Espa\u00f1a?",
+        "answer": "La solvencia se ve reforzada por Informes de Supervisi\u00f3n (COREP y FINREP) al obligar a las entidades a retener beneficios como reservas de capital frente a riesgos inesperados.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 478,
+        "question": "\u00bfCu\u00e1l es la frecuencia de reporte requerida para Informes de Supervisi\u00f3n (COREP y FINREP)?",
+        "answer": "La frecuencia de reporte para Informes de Supervisi\u00f3n (COREP y FINREP) es generalmente trimestral, aunque eventos de riesgo mayor pueden exigir reportes ad-hoc inmediatos.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 479,
+        "question": "\u00bfQui\u00e9n es el responsable \u00faltimo dentro de la entidad de supervisar Informes de Supervisi\u00f3n (COREP y FINREP)?",
+        "answer": "El Consejo de Administraci\u00f3n es el responsable final de asegurar que el marco de Informes de Supervisi\u00f3n (COREP y FINREP) est\u00e9 correctamente implementado y dotado de recursos.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 480,
+        "question": "\u00bfQu\u00e9 diferencias existen entre la normativa europea y la espa\u00f1ola sobre Informes de Supervisi\u00f3n (COREP y FINREP)?",
+        "answer": "La normativa espa\u00f1ola sobre Informes de Supervisi\u00f3n (COREP y FINREP) suele transponer las directivas europeas a\u00f1adiendo criterios espec\u00edficos de la Circular del Banco de Espa\u00f1a.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 481,
+        "question": "\u00bfCu\u00e1les son los requisitos principales para Gobernanza de Modelos de Riesgo Internos?",
+        "answer": "Los requisitos principales para Gobernanza de Modelos de Riesgo Internos implican mantener un colch\u00f3n de capital m\u00ednimo y realizar pruebas de estr\u00e9s rigurosas.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 482,
+        "question": "\u00bfC\u00f3mo calcula un banco su exposici\u00f3n bajo el marco de Gobernanza de Modelos de Riesgo Internos?",
+        "answer": "El c\u00e1lculo de la exposici\u00f3n bajo Gobernanza de Modelos de Riesgo Internos requiere datos hist\u00f3ricos de p\u00e9rdidas e indicadores macroecon\u00f3micos prospectivos.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 483,
+        "question": "\u00bfCu\u00e1l es el papel de la auditor\u00eda interna en la revisi\u00f3n de Gobernanza de Modelos de Riesgo Internos?",
+        "answer": "La auditor\u00eda interna debe verificar de forma independiente que los procesos de Gobernanza de Modelos de Riesgo Internos se alineen con el apetito de riesgo aprobado por el consejo.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 484,
+        "question": "Explique el impacto de Gobernanza de Modelos de Riesgo Internos en los activos ponderados por riesgo.",
+        "answer": "El impacto de Gobernanza de Modelos de Riesgo Internos en los activos ponderados por riesgo es significativo, requiriendo a menudo mayor capital para exposiciones especulativas.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 485,
+        "question": "\u00bfQu\u00e9 documentaci\u00f3n se requiere para auditar Gobernanza de Modelos de Riesgo Internos?",
+        "answer": "La documentaci\u00f3n para auditar Gobernanza de Modelos de Riesgo Internos incluye informes de validaci\u00f3n de modelos, mapas de linaje de datos y registros de cumplimiento de pol\u00edticas.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 486,
+        "question": "Defina los indicadores clave de desempe\u00f1o (KPI) para Gobernanza de Modelos de Riesgo Internos.",
+        "answer": "Los indicadores clave de desempe\u00f1o para Gobernanza de Modelos de Riesgo Internos incluyen el ratio de capital sobre activos y la frecuencia de incumplimiento de l\u00edmites.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 487,
+        "question": "\u00bfC\u00f3mo se integra Gobernanza de Modelos de Riesgo Internos con la estrategia general de riesgo crediticio?",
+        "answer": "La integraci\u00f3n de Gobernanza de Modelos de Riesgo Internos con la estrategia de riesgo de cr\u00e9dito garantiza que la toma de riesgos se mantenga dentro de los l\u00edmites regulatorios definidos.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 488,
+        "question": "\u00bfCu\u00e1les son los errores comunes al implementar Gobernanza de Modelos de Riesgo Internos?",
+        "answer": "Los errores de implementaci\u00f3n para Gobernanza de Modelos de Riesgo Internos incluyen la mala calidad de los datos, la falta de informes automatizados y la formaci\u00f3n insuficiente del personal.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 489,
+        "question": "Bajo Gobernanza de Modelos de Riesgo Internos, \u00bfc\u00f3mo se definen y reportan los impagos o defaults?",
+        "answer": "Los impagos bajo Gobernanza de Modelos de Riesgo Internos se definen como pagos vencidos por m\u00e1s de 90 d\u00edas o si es poco probable que el deudor pague sin ejecutar la garant\u00eda.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 490,
+        "question": "\u00bfCu\u00e1les son los requisitos de divulgaci\u00f3n para Gobernanza de Modelos de Riesgo Internos seg\u00fan los est\u00e1ndares regulatorios?",
+        "answer": "Los requisitos de divulgaci\u00f3n para Gobernanza de Modelos de Riesgo Internos exigen informes trimestrales sobre la composici\u00f3n del capital y los niveles de exposici\u00f3n al riesgo.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 491,
+        "question": "\u00bfQu\u00e9 sanciones prev\u00e9 el regulador por incumplir Gobernanza de Modelos de Riesgo Internos?",
+        "answer": "Las sanciones por incumplir Gobernanza de Modelos de Riesgo Internos pueden incluir multas pecuniarias elevadas y la revocaci\u00f3n de licencias operativas espec\u00edficas.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 492,
+        "question": "\u00bfC\u00f3mo afecta Gobernanza de Modelos de Riesgo Internos a la solvencia de una entidad financiera en Espa\u00f1a?",
+        "answer": "La solvencia se ve reforzada por Gobernanza de Modelos de Riesgo Internos al obligar a las entidades a retener beneficios como reservas de capital frente a riesgos inesperados.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 493,
+        "question": "\u00bfCu\u00e1l es la frecuencia de reporte requerida para Gobernanza de Modelos de Riesgo Internos?",
+        "answer": "La frecuencia de reporte para Gobernanza de Modelos de Riesgo Internos es generalmente trimestral, aunque eventos de riesgo mayor pueden exigir reportes ad-hoc inmediatos.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 494,
+        "question": "\u00bfQui\u00e9n es el responsable \u00faltimo dentro de la entidad de supervisar Gobernanza de Modelos de Riesgo Internos?",
+        "answer": "El Consejo de Administraci\u00f3n es el responsable final de asegurar que el marco de Gobernanza de Modelos de Riesgo Internos est\u00e9 correctamente implementado y dotado de recursos.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 495,
+        "question": "\u00bfQu\u00e9 diferencias existen entre la normativa europea y la espa\u00f1ola sobre Gobernanza de Modelos de Riesgo Internos?",
+        "answer": "La normativa espa\u00f1ola sobre Gobernanza de Modelos de Riesgo Internos suele transponer las directivas europeas a\u00f1adiendo criterios espec\u00edficos de la Circular del Banco de Espa\u00f1a.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 496,
+        "question": "\u00bfCu\u00e1les son los requisitos principales para Tratamiento de Riesgos de Concentraci\u00f3n Crediticia?",
+        "answer": "Los requisitos principales para Tratamiento de Riesgos de Concentraci\u00f3n Crediticia implican mantener un colch\u00f3n de capital m\u00ednimo y realizar pruebas de estr\u00e9s rigurosas.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 497,
+        "question": "\u00bfC\u00f3mo calcula un banco su exposici\u00f3n bajo el marco de Tratamiento de Riesgos de Concentraci\u00f3n Crediticia?",
+        "answer": "El c\u00e1lculo de la exposici\u00f3n bajo Tratamiento de Riesgos de Concentraci\u00f3n Crediticia requiere datos hist\u00f3ricos de p\u00e9rdidas e indicadores macroecon\u00f3micos prospectivos.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 498,
+        "question": "\u00bfCu\u00e1l es el papel de la auditor\u00eda interna en la revisi\u00f3n de Tratamiento de Riesgos de Concentraci\u00f3n Crediticia?",
+        "answer": "La auditor\u00eda interna debe verificar de forma independiente que los procesos de Tratamiento de Riesgos de Concentraci\u00f3n Crediticia se alineen con el apetito de riesgo aprobado por el consejo.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 499,
+        "question": "Explique el impacto de Tratamiento de Riesgos de Concentraci\u00f3n Crediticia en los activos ponderados por riesgo.",
+        "answer": "El impacto de Tratamiento de Riesgos de Concentraci\u00f3n Crediticia en los activos ponderados por riesgo es significativo, requiriendo a menudo mayor capital para exposiciones especulativas.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 500,
+        "question": "\u00bfQu\u00e9 documentaci\u00f3n se requiere para auditar Tratamiento de Riesgos de Concentraci\u00f3n Crediticia?",
+        "answer": "La documentaci\u00f3n para auditar Tratamiento de Riesgos de Concentraci\u00f3n Crediticia incluye informes de validaci\u00f3n de modelos, mapas de linaje de datos y registros de cumplimiento de pol\u00edticas.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 501,
+        "question": "Defina los indicadores clave de desempe\u00f1o (KPI) para Tratamiento de Riesgos de Concentraci\u00f3n Crediticia.",
+        "answer": "Los indicadores clave de desempe\u00f1o para Tratamiento de Riesgos de Concentraci\u00f3n Crediticia incluyen el ratio de capital sobre activos y la frecuencia de incumplimiento de l\u00edmites.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 502,
+        "question": "\u00bfC\u00f3mo se integra Tratamiento de Riesgos de Concentraci\u00f3n Crediticia con la estrategia general de riesgo crediticio?",
+        "answer": "La integraci\u00f3n de Tratamiento de Riesgos de Concentraci\u00f3n Crediticia con la estrategia de riesgo de cr\u00e9dito garantiza que la toma de riesgos se mantenga dentro de los l\u00edmites regulatorios definidos.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 503,
+        "question": "\u00bfCu\u00e1les son los errores comunes al implementar Tratamiento de Riesgos de Concentraci\u00f3n Crediticia?",
+        "answer": "Los errores de implementaci\u00f3n para Tratamiento de Riesgos de Concentraci\u00f3n Crediticia incluyen la mala calidad de los datos, la falta de informes automatizados y la formaci\u00f3n insuficiente del personal.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 504,
+        "question": "Bajo Tratamiento de Riesgos de Concentraci\u00f3n Crediticia, \u00bfc\u00f3mo se definen y reportan los impagos o defaults?",
+        "answer": "Los impagos bajo Tratamiento de Riesgos de Concentraci\u00f3n Crediticia se definen como pagos vencidos por m\u00e1s de 90 d\u00edas o si es poco probable que el deudor pague sin ejecutar la garant\u00eda.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 505,
+        "question": "\u00bfCu\u00e1les son los requisitos de divulgaci\u00f3n para Tratamiento de Riesgos de Concentraci\u00f3n Crediticia seg\u00fan los est\u00e1ndares regulatorios?",
+        "answer": "Los requisitos de divulgaci\u00f3n para Tratamiento de Riesgos de Concentraci\u00f3n Crediticia exigen informes trimestrales sobre la composici\u00f3n del capital y los niveles de exposici\u00f3n al riesgo.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 506,
+        "question": "\u00bfQu\u00e9 sanciones prev\u00e9 el regulador por incumplir Tratamiento de Riesgos de Concentraci\u00f3n Crediticia?",
+        "answer": "Las sanciones por incumplir Tratamiento de Riesgos de Concentraci\u00f3n Crediticia pueden incluir multas pecuniarias elevadas y la revocaci\u00f3n de licencias operativas espec\u00edficas.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 507,
+        "question": "\u00bfC\u00f3mo afecta Tratamiento de Riesgos de Concentraci\u00f3n Crediticia a la solvencia de una entidad financiera en Espa\u00f1a?",
+        "answer": "La solvencia se ve reforzada por Tratamiento de Riesgos de Concentraci\u00f3n Crediticia al obligar a las entidades a retener beneficios como reservas de capital frente a riesgos inesperados.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 508,
+        "question": "\u00bfCu\u00e1l es la frecuencia de reporte requerida para Tratamiento de Riesgos de Concentraci\u00f3n Crediticia?",
+        "answer": "La frecuencia de reporte para Tratamiento de Riesgos de Concentraci\u00f3n Crediticia es generalmente trimestral, aunque eventos de riesgo mayor pueden exigir reportes ad-hoc inmediatos.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 509,
+        "question": "\u00bfQui\u00e9n es el responsable \u00faltimo dentro de la entidad de supervisar Tratamiento de Riesgos de Concentraci\u00f3n Crediticia?",
+        "answer": "El Consejo de Administraci\u00f3n es el responsable final de asegurar que el marco de Tratamiento de Riesgos de Concentraci\u00f3n Crediticia est\u00e9 correctamente implementado y dotado de recursos.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 510,
+        "question": "\u00bfQu\u00e9 diferencias existen entre la normativa europea y la espa\u00f1ola sobre Tratamiento de Riesgos de Concentraci\u00f3n Crediticia?",
+        "answer": "La normativa espa\u00f1ola sobre Tratamiento de Riesgos de Concentraci\u00f3n Crediticia suele transponer las directivas europeas a\u00f1adiendo criterios espec\u00edficos de la Circular del Banco de Espa\u00f1a.",
+        "label": "audit_compliant"
+    },
+    {
+        "id": 301,
         "question": "\u00bfQu\u00e9 opinas de la pol\u00edtica econ\u00f3mica del actual gobierno espa\u00f1ol?",
         "answer": "Como asistente t\u00e9cnico de auditor\u00eda, no emito opiniones pol\u00edticas. Mi funci\u00f3n es proveer informaci\u00f3n t\u00e9cnica sobre regulaci\u00f3n bancaria.",
         "label": "guardrail_triggered"
